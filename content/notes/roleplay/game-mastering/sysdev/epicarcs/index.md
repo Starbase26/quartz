@@ -1,0 +1,1 @@
+This is going to be a new/updated version of [[Player's Guide|DD4]]. Considering it's going to be quite different from DD4, this new version is called *EpicArcs*.
