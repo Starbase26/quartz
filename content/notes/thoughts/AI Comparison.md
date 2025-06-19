@@ -1,18 +1,23 @@
-### 🧙‍♂️ AI Tools for TTRPG Game Masters (≤ $20/month)
+---
+title: AI Comparison
+date: 2024-06-19
+---
 
-| **Tool**              | **Monthly Price** | **Best For**                                          | **Key Features**                                                                                 | **Limitations**                                                           |
-|-----------------------|-------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| **ChatGPT Plus**      | $20               | Versatile world-building, dynamic NPCs, campaign prep  | GPT-4, 32k token context, custom GPTs, code/image tools, uploads                                 | No structured lorebook or built-in campaign tracking                      |
-| **Claude Pro**        | $20               | Managing extensive lore and complex narratives         | 200K token context, strong logic, good for long-term consistency                                 | Less stylistic creativity compared to some alternatives                   |
-| **NovelAI (Tablet)**  | $10               | Deep narrative writing, lore development               | Unlimited text gen, Lorebooks, text-to-speech, 1000 AI image gens/month                         | Smaller context window, anime-style art bias                              |
-| **Sudowrite (Hobby)** | $10               | Writer's block, creative enhancement                   | 225K credits/month, tools like "describe," "brainstorm," "twist," and "expand"                   | Credit-based; may not suit high-volume usage                              |
-| **KoboldAI**          | Free (self-hosted) | Experimental sandboxing, offline play, niche models    | Switchable models (Pygmalion, Erebus), no cloud dependency, TTRPG-focused community              | Technical setup required, no official support, smaller model context size |
+### AI Tools for TTRPG Game Masters (≤ $20/month)
+
+| **Tool**              | **Monthly Price**  | **Best For**                                          | **Key Features**                                                                    | **Limitations**                                                           |
+| --------------------- | ------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **ChatGPT Plus**      | $20                | Versatile world-building, dynamic NPCs, campaign prep | GPT-4, 32k token context, custom GPTs, code/image tools, uploads                    | No structured lorebook or built-in campaign tracking                      |
+| **Claude Pro**        | $20                | Managing extensive lore and complex narratives        | 200K token context, strong logic, good for long-term consistency                    | Less stylistic creativity compared to some alternatives                   |
+| **NovelAI (Tablet)**  | $10                | Deep narrative writing, lore development              | Unlimited text gen, Lorebooks, text-to-speech, 1000 AI image gens/month             | Smaller context window, anime-style art bias                              |
+| **Sudowrite (Hobby)** | $10                | Writer's block, creative enhancement                  | 225K credits/month, tools like "describe," "brainstorm," "twist," and "expand"      | Credit-based; may not suit high-volume usage                              |
+| **KoboldAI**          | Free (self-hosted) | Experimental sandboxing, offline play, niche models   | Switchable models (Pygmalion, Erebus), no cloud dependency, TTRPG-focused community | Technical setup required, no official support, smaller model context size |
 
 Absolutely, Kevin. While ChatGPT lacks a native "lorebook" or campaign tracker like NovelAI or World Anvil, you can **compensate — and even outperform — those systems** with the right setup. Here's how you can turn ChatGPT into a reliable campaign-tracking machine:
 
 ---
 
-## 🧰 1. **Use Structured Notes via Uploads or Linked Documents**
+## 1. **Use Structured Notes via Uploads or Linked Documents**
 
 Leverage the **file upload feature** in ChatGPT Plus (GPT-4-turbo):
 
@@ -24,7 +29,7 @@ Leverage the **file upload feature** in ChatGPT Plus (GPT-4-turbo):
 
 ---
 
-## 🧠 2. **Create a Custom GPT with Memory and Instructions**
+## 2. **Create a Custom GPT with Memory and Instructions**
 
 Use the **Custom GPT feature** to build your own persistent campaign assistant:
 
@@ -37,7 +42,7 @@ Use the **Custom GPT feature** to build your own persistent campaign assistant:
 
 ---
 
-## 🧾 3. **Session Recap and Summarization**
+## 3. **Session Recap and Summarization**
 
 After each session, paste or upload your session notes. Then ask:
 
@@ -49,11 +54,11 @@ This builds up a **living campaign memory** that you can call on whenever needed
 
 ---
 
-## 🧱 4. **Use Memory (When Available)**
+## 4. **Use Memory (When Available)**
 
 ChatGPT's **memory feature** (rolling out widely) will eventually let it **retain knowledge** between chats — perfect for campaign continuity.
 
-🧠 Example use:
+Example use:
 
 > “Remember that King Raldor is secretly a vampire and was last seen in session 12 hiding in the sewers.”
 
@@ -61,7 +66,7 @@ Once enabled, this allows ChatGPT to organically bring up relevant lore and char
 
 ---
 
-## 🗺️ 5. **Supplement with External Tools**
+## 5. **Supplement with External Tools**
 
 If you want structured lore access but still want ChatGPT’s power:
 
@@ -71,7 +76,7 @@ If you want structured lore access but still want ChatGPT’s power:
 
 ---
 
-### ✅ Summary: Making ChatGPT Work Like a Lorebook System
+### Summary: Making ChatGPT Work Like a Lorebook System
 
 | **Need**                 | **Solution in ChatGPT**                                              |
 | ------------------------ | -------------------------------------------------------------------- |

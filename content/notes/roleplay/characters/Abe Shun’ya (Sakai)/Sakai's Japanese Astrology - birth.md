@@ -1,3 +1,8 @@
+---
+title: Sakai's Japanese Astrology - Birth
+date: 2025-06-19
+---
+
 # 🌌 Onmyōdō Interpretation of Birth  
 **Date:** Ansei 4, 2nd Month, 17th Day  
 **Sexagenary Alignment:** 甲辰 (Kinoe-Tatsu)  

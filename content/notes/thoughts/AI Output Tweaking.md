@@ -1,8 +1,14 @@
+---
+title: AI Output Tweaking
+date: 2025-06-19
+---
+
+
 Great question — and very sharp of you to notice. That "X is not Y, but Z" structure is a hallmark of academic or diplomatic writing, and while it clarifies nuance, it often **kills narrative flow** and weakens tone — especially in TTRPG writing where **directness, mood, and immersion** matter more than balance.
 
 ---
 
-## 🎯 How to Tweak My Output Style to Match Your Preference
+## How to Tweak My Output Style to Match Your Preference
 
 To cut the contradictions and make writing punchier, instruct me to:
 
@@ -18,7 +24,7 @@ Here’s what that changes:
 
 ---
 
-## ✅ Best Way to Lock in That Style (Custom GPT Instructions)
+## Best Way to Lock in That Style (Custom GPT Instructions)
 
 If you're building a Custom GPT, include this in the **"Instructions"** field:
 
@@ -30,7 +36,7 @@ Or if you're not building a GPT yet, just drop a quick reminder in the chat like
 
 ---
 
-## 🧙‍♂️ Bonus for TTRPG Use
+## Bonus for TTRPG Use
 
 This style works **especially well** for:
 

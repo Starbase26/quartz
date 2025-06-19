@@ -1,3 +1,8 @@
+---
+title: Sakai's backstory notes
+date: 2025-06-19
+---
+
 # Back story notes
 
 Having learned the mystical arts from his family, Sakai was able to peform the ritual of Taizan Fukun ceremony. A ceremony performed to the Lord of Death (Lord Taizan Fukun) to bring back a soul from the underworld.

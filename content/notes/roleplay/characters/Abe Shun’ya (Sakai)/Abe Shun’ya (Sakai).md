@@ -1,3 +1,8 @@
+---
+title: Abe Shun'ya (Sakai)
+date: 2025-06-19
+---
+
 # Abe Shun’ya
 
 - **Family Name**: Abe

@@ -1,3 +1,7 @@
+---
+title: Narrative Structures
+date: 2025-06-19
+---
 
 ### Summary Table:
 

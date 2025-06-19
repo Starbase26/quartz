@@ -1,3 +1,8 @@
+---
+title: New vampire character - creation notes
+dat: 2025-06-19
+---
+
 # New Name
 
 ## some notes

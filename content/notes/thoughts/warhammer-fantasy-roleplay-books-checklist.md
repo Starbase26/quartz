@@ -1,3 +1,8 @@
+---
+title: Warhammer Fantasy Roleplay books Checklist
+date: 2025-06-19
+---
+
 # WFRP Books Checklist
 
 ## Essentials
