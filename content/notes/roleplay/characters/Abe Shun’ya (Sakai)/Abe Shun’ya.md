@@ -1,6 +1,14 @@
 ---
-title: Abe Shun'ya (Sakai)
+title: Abe Shun'ya
 date: 2025-06-19
+aliases:
+  - Sakai
+tags:
+  - roleplay
+  - player-character
+  - vampire
+  - tremere
+created on: <% tp.file.creation_date() %>
 ---
 
 # Abe Shun’ya
@@ -35,5 +43,3 @@ Shun’ya’s lineage goes all the way back to *Abe no Seimei (921-1005)* — a 
 ### Embrace
 
 His embrace occured on 12-Apr-1889, when he was 32 years of age. In Japanese culture the date would be: Meiji 22-03-12. 
-
----
