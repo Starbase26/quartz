@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md",
+                "file": "templates/New Character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divine Ranks"
+              "title": "New Character"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "c02464b75366d8d5",
   "lastOpenFiles": [
+    "notes/roleplay/characters/Saalim abu Razin/Session notes/02-05-2025 Saalim.md",
+    "templates/New Character.md",
+    "notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Skill List.md",
+    "notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md",
     "notes/roleplay/characters/Abe Shun'ya/New vampire character - creation nottes.md",
     "notes/roleplay/characters/Abe Shun'ya/Abe Shun'ya.md",
     "notes/roleplay/characters/Abe Shun'ya/Sakai's backstory notes.md",
@@ -187,8 +191,6 @@
     "notes/thoughts/AI Comparison.md",
     "notes/roleplay/game-mastering/sysdev/epicarcs/index.md",
     "notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Player's Guide.md",
-    "notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Skill List.md",
-    "notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md",
     "notes/Test chapter.md",
     "templates/chapter.md",
     "templates/index.md",
@@ -200,14 +202,12 @@
     "notes/roleplay/game-mastering",
     "notes/thoughts",
     "Welcome.md",
-    "notes/roleplay/characters/Saalim abu Razin/Session notes/02-05-2025 Saalim.md",
     "templates",
     "notes",
     "notes/roleplay/characters/Saalim abu Razin/Session notes",
     "notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's known associates.md",
     "notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's family.md",
     "notes/roleplay/characters/Saalim abu Razin/Known Associates",
-    "notes/roleplay/characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md",
-    "notes/roleplay/characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md"
+    "notes/roleplay/characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md"
   ]
 }
