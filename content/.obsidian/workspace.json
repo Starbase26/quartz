@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/roleplay/characters/Abe Shun’ya (Sakai)/Abe Shun’ya (Sakai).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -167,7 +167,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "c02464b75366d8d5",
