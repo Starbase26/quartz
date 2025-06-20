@@ -10,7 +10,7 @@ tags:
   - tremere
 ---
 **To Do**
-- [ ] ==Make a short timeline what happened to my character and when!== (table format)
+- [ ] ==Make a short timeline what happened to my character and when!== (table format with columns: "Date/Age", "Event")
 
 ---
 # Abe Shun’ya
