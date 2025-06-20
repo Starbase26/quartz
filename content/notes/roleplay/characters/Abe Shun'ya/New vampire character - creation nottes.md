@@ -3,7 +3,9 @@ title: New vampire character - creation notes
 dat: 2025-06-19
 ---
 
-# New Name
+# Work in Progress!!
+
+
 
 ## some notes
 
@@ -17,6 +19,7 @@ dat: 2025-06-19
 - *Mytical, ritualistic assassin*: a cold, surgical killer
 - Loyal to the Camarilla, operating within it
 
+## Subject to Change!
 
 1. **Generation 9 == Power + Plausibility**
 	- 9th gen is powerful but not ancient - a perfect tier for someone with ambition, resources, and influence, but still young enough to push for reform

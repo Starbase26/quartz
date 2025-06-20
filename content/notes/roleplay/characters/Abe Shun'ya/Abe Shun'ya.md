@@ -1,22 +1,20 @@
 ---
 title: Abe Shun'ya
-date: 2025-06-19
 aliases:
   - Sakai
+date: 2025-06-19
 tags:
   - roleplay
   - player-character
   - vampire
   - tremere
-created on: <% tp.file.creation_date() %>
 ---
-
 # Abe Shun’ya
 
 - **Family Name**: Abe
 - **Given Name** Shun’ya
 - **Call Name** Sakai
-
+---
 - **Date of Birth**: 8:08 AM on 24-Mar-1857
 - **Date of Death**: 12-Apr-1889 (age 32)
 

@@ -9721,3 +9721,65 @@ Done processing 20 files in 3s
 
 Backing up your content
 Detected symlink, trying to dereference before committing
+[v4 45753991] Quartz sync: Jun 20, 2025, 3:05 PM
+ 39 files changed, 614 insertions(+), 60 deletions(-)
+ rename "content/notes/roleplay/characters/Abe Shun\342\200\231ya (Sakai)/Abe Shun\342\200\231ya (Sakai).md" => "content/notes/roleplay/characters/Abe Shun\342\200\231ya (Sakai)/Abe Shun\342\200\231ya.md" (86%)
+ create mode 100644 public/Sakai.html
+ delete mode 100644 "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Abe-Shun\342\200\231ya-(Sakai)-og-image.webp"
+ create mode 100644 "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Abe-Shun\342\200\231ya-og-image.webp"
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Abe-Shun\342\200\231ya-(Sakai).html" => "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Abe-Shun\342\200\231ya.html" (59%)
+ create mode 100644 public/tags/player-character.html
+ create mode 100644 public/tags/roleplay.html
+ create mode 100644 public/tags/tremere.html
+ create mode 100644 public/tags/vampire.html
+Pushing your changes
+To github.com:Starbase26/quartz.git
+   0d95face..45753991  v4 -> v4
+branch 'v4' set up to track 'origin/v4'.
+Done!
+✅ Build en sync voltooid op Fri Jun 20 15:05:11 UTC 2025
+🔁 Build gestart op Fri Jun 20 15:10:01 UTC 2025
+
+ Quartz v4.5.1  
+
+Cleaned output directory `public` in 4ms
+Found 20 input files from `content` in 28ms
+Parsing input files using 1 threads
+
+Warning: couldn't find git repository for content
+
+Warning: found invalid date "0" in `index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/New vampire character - creation nottes.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/Saskai's Japanese Astrology - Death.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's family.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's known associates.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Session notes/02-05-2025 Saalim.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Player's Guide.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Skill List.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 20 Markdown files in 513ms
+Filtered out 0 files in 77μs
+Emitting files
+Emitted 69 files to `public` in 3s
+Done processing 20 files in 3s
+
+ Quartz v4.5.1 
+
+Backing up your content
+Detected symlink, trying to dereference before committing
