@@ -35,12 +35,3 @@ Shun’ya’s lineage goes all the way back to *Abe no Seimei (921-1005)* — a 
 ### Embrace
 
 His embrace occured on 12-Apr-1889, when he was 32 years of age. In Japanese culture the date would be: Meiji 22-03-12. 
-
-```timeline
-[line-3, body-2]
-+ 24 March 1857
-+ Birth
-+
-+ 12 April 1889
-+ Embrace
-```
