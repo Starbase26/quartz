@@ -37,7 +37,7 @@ tags:
 - *Astrological Alignment*: Kinoe-Tatsu (Yang wood Dragon Day)
 - *Lunar Month*: Kisagari (Second Month - Season of Thresholds)
 
-**[[Sakai's Japanese Astrology - birth|Astrological analysis]]**
+**[[Sakai's Japanese Astrology - birth|Astrological analysis - birth]]**
 
 ## History
 
@@ -48,3 +48,5 @@ Shun’ya’s lineage goes all the way back to *Abe no Seimei (921-1005)* — a 
 ### Embrace
 
 His embrace occurred on 12-Apr-1889, when he was 32 years of age. In Japanese culture the date would be: Meiji 22-03-12. 
+
+[[Sakai's Japanese Astrology - Death|Astrological analysis - Death/Embrace]]
