@@ -11,6 +11,9 @@ tags:
 ---
 **To Do**
 - [ ] ==Make a short timeline what happened to my character and when!== (table format with columns: "Date/Age", "Event")
+- [ ] Bepalen: 
+	- [ ] Waar woont Sakai nu?
+	- [ ] Wat zijn z'n worst fears/dreams?
 
 ---
 # Abe Shun’ya
