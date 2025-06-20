@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/roleplay/index.md",
+                "file": "notes/roleplay/characters/Ik ben een nieuw character/miep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "miep"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "c02464b75366d8d5",
   "lastOpenFiles": [
-    "notes/roleplay/characters/Abe Shun’ya (Sakai)/Abe Shun’ya (Sakai).md",
     "notes/roleplay/index.md",
+    "notes/roleplay/characters/Ik ben een nieuw character/miep.md",
+    "notes/roleplay/characters/Ik ben een nieuw character",
+    "notes/roleplay/characters/Abe Shun’ya (Sakai)/Abe Shun’ya (Sakai).md",
     "notes/roleplay/characters/Abe Shun’ya (Sakai)/Saskai's Japanese Astrology - Death.md",
     "notes/roleplay/characters/Abe Shun’ya (Sakai)/Sakai's Japanese Astrology - birth.md",
     "notes/roleplay/characters/Abe Shun’ya (Sakai)/Sakai's backstory notes.md",
@@ -204,7 +206,6 @@
     "notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's known associates.md",
     "notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's family.md",
     "notes/roleplay/characters/Saalim abu Razin/Known Associates",
-    "notes/roleplay/characters/Saalim abu Razin",
     "notes/roleplay/characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md",
     "notes/roleplay/characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md"
   ]
