@@ -5,9 +5,9 @@ dat: 2025-06-19
 
 # Work in Progress!!
 
+> Information on this page is subject to change, As long as the information is not yet mentioned in the [INSERT CHARACTER NAME] document, it is not yet part of the character's design.
 
-
-## some notes
+## Some Notes
 
 - 9th Gen vampire
 	- Old enough to remember the pyramid, but also young enough not to have nostalgia for it

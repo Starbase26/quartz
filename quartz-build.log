@@ -9783,3 +9783,74 @@ Done processing 20 files in 3s
 
 Backing up your content
 Detected symlink, trying to dereference before committing
+[v4 7af96107] Quartz sync: Jun 20, 2025, 3:10 PM
+ 49 files changed, 342 insertions(+), 285 deletions(-)
+ rename "content/notes/roleplay/characters/Abe Shun\342\200\231ya (Sakai)/Abe Shun\342\200\231ya.md" => content/notes/roleplay/characters/Abe Shun'ya/Abe Shun'ya.md (95%)
+ rename "content/notes/roleplay/characters/Abe Shun\342\200\231ya (Sakai)/New vampire character - creation nottes.md" => content/notes/roleplay/characters/Abe Shun'ya/New vampire character - creation nottes.md (96%)
+ rename "content/notes/roleplay/characters/Abe Shun\342\200\231ya (Sakai)/Sakai's Japanese Astrology - birth.md" => content/notes/roleplay/characters/Abe Shun'ya/Sakai's Japanese Astrology - birth.md (100%)
+ rename "content/notes/roleplay/characters/Abe Shun\342\200\231ya (Sakai)/Sakai's backstory notes.md" => content/notes/roleplay/characters/Abe Shun'ya/Sakai's backstory notes.md (100%)
+ rename "content/notes/roleplay/characters/Abe Shun\342\200\231ya (Sakai)/Saskai's Japanese Astrology - Death.md" => content/notes/roleplay/characters/Abe Shun'ya/Saskai's Japanese Astrology - Death.md (100%)
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Abe-Shun\342\200\231ya-og-image.webp" => public/notes/roleplay/characters/Abe-Shun'ya/Abe-Shun'ya-og-image.webp (100%)
+ create mode 100644 public/notes/roleplay/characters/Abe-Shun'ya/Abe-Shun'ya.html
+ create mode 100644 public/notes/roleplay/characters/Abe-Shun'ya/New-vampire-character---creation-nottes-og-image.webp
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Abe-Shun\342\200\231ya.html" => public/notes/roleplay/characters/Abe-Shun'ya/New-vampire-character---creation-nottes.html (68%)
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Sakai's-Japanese-Astrology---birth-og-image.webp" => public/notes/roleplay/characters/Abe-Shun'ya/Sakai's-Japanese-Astrology---birth-og-image.webp (100%)
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Sakai's-Japanese-Astrology---birth.html" => public/notes/roleplay/characters/Abe-Shun'ya/Sakai's-Japanese-Astrology---birth.html (68%)
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Sakai's-backstory-notes-og-image.webp" => public/notes/roleplay/characters/Abe-Shun'ya/Sakai's-backstory-notes-og-image.webp (100%)
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Sakai's-backstory-notes.html" => public/notes/roleplay/characters/Abe-Shun'ya/Sakai's-backstory-notes.html (64%)
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Saskai's-Japanese-Astrology---Death-og-image.webp" => public/notes/roleplay/characters/Abe-Shun'ya/Saskai's-Japanese-Astrology---Death-og-image.webp (100%)
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/Saskai's-Japanese-Astrology---Death.html" => public/notes/roleplay/characters/Abe-Shun'ya/Saskai's-Japanese-Astrology---Death.html (72%)
+ rename "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/index.html" => public/notes/roleplay/characters/Abe-Shun'ya/index.html (53%)
+ delete mode 100644 "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/New-vampire-character---creation-nottes-og-image.webp"
+ delete mode 100644 "public/notes/roleplay/characters/Abe-Shun\342\200\231ya-(Sakai)/New-vampire-character---creation-nottes.html"
+Pushing your changes
+To github.com:Starbase26/quartz.git
+   45753991..7af96107  v4 -> v4
+branch 'v4' set up to track 'origin/v4'.
+Done!
+✅ Build en sync voltooid op Fri Jun 20 15:10:11 UTC 2025
+🔁 Build gestart op Fri Jun 20 15:15:01 UTC 2025
+
+ Quartz v4.5.1  
+
+Cleaned output directory `public` in 4ms
+Found 20 input files from `content` in 18ms
+Parsing input files using 1 threads
+
+Warning: couldn't find git repository for content
+
+Warning: found invalid date "0" in `index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/New vampire character - creation nottes.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/Saskai's Japanese Astrology - Death.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's family.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's known associates.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Session notes/02-05-2025 Saalim.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Player's Guide.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Skill List.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 20 Markdown files in 496ms
+Filtered out 0 files in 77μs
+Emitting files
+Emitted 69 files to `public` in 3s
+Done processing 20 files in 3s
+
+ Quartz v4.5.1 
+
+Backing up your content
+Detected symlink, trying to dereference before committing

@@ -1,16 +1,16 @@
 # Divine Rank Hierarchy (1-9)
 
-| Tier  | Rank                                  | Description                                                                                                                           | Power level |
-| ----- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| **1** | **Initiate Spark**                    | A mortal bearing a nascent divine spark—chosen by fate, prophecy, or divine will. Their power is unstable and largely symbolic.       | 0           |
-| **2** | **Demigod**                           | A being of mixed mortal and divine essence, or one partially elevated through heroism or divine favor. Limited but real divine power. | 1-5         |
-| **3** | **Godling**                           | A newly awakened divine entity gaining stability. Still dependent on faith or relics, but beginning to form domains and followings.   | 6-10        |
-| **4** | **Lesser Deity**                      | A localized or narrowly focused deity. Often worshipped by small cultures, sects, or specific professions.                            | 11-15       |
-| **5** | **Intermediate Deity**                | Commands multiple domains and a wide array of followers. Capable of divine intervention and shaping planar regions.                   | 16-20       |
-| **6** | **Greater Deity**                     | Influences entire civilizations or continents. Central to major pantheons and myth cycles.                                            | 21-25       |
-| **7** | **Prime Deity**                       | One of the great architects of existence. Their influence spans planes and epochs. Capable of reshaping creation itself.              | 32-64       |
-| **8** | **Eternal**                           | Beyond time and entropy. Their existence is immutable, often tied to cosmic truths or axioms.                                         | 128-256     |
-| **9** | **Orrynai** (Transcendent Absolute)   | A state beyond divinity—pure will, origin, or law. Not worshipped so much as observed through paradox and principle.                  | 512-infinity |
+| Tier  | Rank                              | Description                                                                                                                           | Power level  |
+| ----- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| **1** | **Initiate Spark**                | A mortal bearing a nascent divine spark—chosen by fate, prophecy, or divine will. Their power is unstable and largely symbolic.       | 0            |
+| **2** | **Demigod**                       | A being of mixed mortal and divine essence, or one partially elevated through heroism or divine favor. Limited but real divine power. | 1-5          |
+| **3** | **Godling**                       | A newly awakened divine entity gaining stability. Still dependent on faith or relics, but beginning to form domains and followings.   | 6-10         |
+| **4** | **Lesser Deity**                  | A localized or narrowly focused deity. Often worshipped by small cultures, sects, or specific professions.                            | 11-15        |
+| **5** | **Intermediate Deity**            | Commands multiple domains and a wide array of followers. Capable of divine intervention and shaping planar regions.                   | 16-20        |
+| **6** | **Greater Deity**                 | Influences entire civilizations or continents. Central to major pantheons and myth cycles.                                            | 21-25        |
+| **7** | **Prime Deity**                   | One of the great architects of existence. Their influence spans planes and epochs. Capable of reshaping creation itself.              | 32-64        |
+| **8** | **Eternal**                       | Beyond time and entropy. Their existence is immutable, often tied to cosmic truths or axioms.                                         | 128-256      |
+| **9** | **Orryn** (Transcendent Absolute) | A state beyond divinity—pure will, origin, or law. Not worshipped so much as observed through paradox and principle.                  | 512-infinity |
 
 #### Notes
 
@@ -22,23 +22,23 @@
 
 - **Tier 7 (Prime Deity):** Doubling power every step beyond Tier 6; hence, starting around `2^5 = 32`.   
 - **Tier 8 (Eternal):** Reflects `2^7 to 2^8 = 128-256` range, suggesting command over universal constants.    
-- **Tier 9 (Orrynai):** Starts at `2^9 = 512` and moves toward infinity, symbolizing unknowable or concept-level divinity (e.g., "Time," "Entropy," "Void").
+- **Tier 9 (Orryn):** Starts at `2^9 = 512` and moves toward infinity, symbolizing unknowable or concept-level divinity (e.g., "Time," "Entropy," "Void").
 
 ---
 
 ## Divine Power Bands – Mechanics by Tier
 
-| Tier  | Title              | Power Level Range | Avatar Limit                      | Domain Breadth                                                    | Artifact Threshold                                             |
-| ----- | ------------------ | ----------------- | --------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------- |
-| **1** | Initiate Spark     | 0                 | 0                                 | One proto-domain, barely formed (e.g., "Hope" or "Change")        | Can attune to 1 minor relic, not create                        |
-| **2** | Demigod            | 1-5               | 1 (semi-corporeal or dream-based) | 1 minor domain, often inherited or gifted                         | 1 minor artifact (requires divine co-sponsorship)              |
-| **3** | Godling            | 6-10              | 1-2                               | 1 full domain, such as "Fire" or "Hunt"                           | Can create 1-2 minor artifacts or empower 1 major jointly      |
-| **4** | Lesser Deity       | 11-15             | 2-3                               | Up to 2 domains, with limited regional scope                      | 3-5 minor artifacts, 1 major artifact                          |
-| **5** | Intermediate Deity | 16-20             | 4-6                               | 2-3 domains, global or planar influence                           | 5-7 major artifacts, 1 greater relic                           |
-| **6** | Greater Deity      | 21-25             | 7-10                              | 3+ domains, planetary-scale influence                             | Up to 10 major artifacts, 2-3 greater relics                   |
-| **7** | Prime Deity        | 32-64             | 10-15                             | Portfolio of domains, governs concepts like Justice, Death        | Infinite minor, 5-7 greater relics, 1 artifact-class plane     |
-| **8** | Eternal            | 128-256           | Infinite (self-replicating aspects) | Absolute concept control (e.g., Time, Space)                      | Can create cosmic artifacts, reforge divine essence            |
-| **9** | Orrynai            | 512-infinity      | Transcends avatars                | Archetypal principle (e.g., Origin, Void)                         | Can create or dissolve planes, birth or absorb other gods      |
+| Tier  | Title              | Power Level Range | Avatar Limit                        | Domain Breadth                                             | Artifact Threshold                                         |
+| ----- | ------------------ | ----------------- | ----------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| **1** | Initiate Spark     | 0                 | 0                                   | One proto-domain, barely formed (e.g., "Hope" or "Change") | Can attune to 1 minor relic, not create                    |
+| **2** | Demigod            | 1-5               | 1 (semi-corporeal or dream-based)   | 1 minor domain, often inherited or gifted                  | 1 minor artifact (requires divine co-sponsorship)          |
+| **3** | Godling            | 6-10              | 1-2                                 | 1 full domain, such as "Fire" or "Hunt"                    | Can create 1-2 minor artifacts or empower 1 major jointly  |
+| **4** | Lesser Deity       | 11-15             | 2-3                                 | Up to 2 domains, with limited regional scope               | 3-5 minor artifacts, 1 major artifact                      |
+| **5** | Intermediate Deity | 16-20             | 4-6                                 | 2-3 domains, global or planar influence                    | 5-7 major artifacts, 1 greater relic                       |
+| **6** | Greater Deity      | 21-25             | 7-10                                | 3+ domains, planetary-scale influence                      | Up to 10 major artifacts, 2-3 greater relics               |
+| **7** | Prime Deity        | 32-64             | 10-15                               | Portfolio of domains, governs concepts like Justice, Death | Infinite minor, 5-7 greater relics, 1 artifact-class plane |
+| **8** | Eternal            | 128-256           | Infinite (self-replicating aspects) | Absolute concept control (e.g., Time, Space)               | Can create cosmic artifacts, reforge divine essence        |
+| **9** | Orryn              | 512-infinity      | Transcends avatars                  | Archetypal principle (e.g., Origin, Void)                  | Can create or dissolve planes, birth or absorb other gods  |
 
 ---
 
@@ -108,7 +108,7 @@ Defines how many powerful objects or relics the deity can imbue, maintain, or bi
 - Domain: Absolute concept control (Time, Space)  
 - Artifacts: Create cosmic artifacts, reforge divine essence
 
-### Orrynai
+### Orryn
 - Power: 512-infinity  
 - Avatars: Beyond avatar limits  
 - Domain: Archetypal principles (Origin, Void)  
