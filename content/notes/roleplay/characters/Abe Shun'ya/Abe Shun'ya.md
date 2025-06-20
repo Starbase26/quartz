@@ -9,6 +9,10 @@ tags:
   - vampire
   - tremere
 ---
+**To Do**
+- [ ] ==Make a short timeline what happened to my character and when!== (table format)
+
+---
 # Abe Shun’ya
 
 - **Family Name**: Abe
@@ -18,6 +22,7 @@ tags:
 
 - **Date of Birth**: 8:08 AM on 24-Mar-1857
 - **Date of Death**: 12-Apr-1889 (age 32)
+
 
 ## Date of Birth
 
