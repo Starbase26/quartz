@@ -23,6 +23,7 @@ tags:
 - **Date of Birth**: 8:08 AM on 24-Mar-1857
 - **Date of Death**: 12-Apr-1889 (age 32)
 
+[[Sakai's backstory notes!Backstory - not 100% final]]
 
 ## Date of Birth
 
@@ -46,4 +47,4 @@ Shun’ya’s lineage goes all the way back to *Abe no Seimei (921-1005)* — a 
 
 ### Embrace
 
-His embrace occured on 12-Apr-1889, when he was 32 years of age. In Japanese culture the date would be: Meiji 22-03-12. 
+His embrace occurred on 12-Apr-1889, when he was 32 years of age. In Japanese culture the date would be: Meiji 22-03-12. 
