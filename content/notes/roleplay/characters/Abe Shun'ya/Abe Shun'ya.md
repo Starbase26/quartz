@@ -23,7 +23,7 @@ tags:
 - **Date of Birth**: 8:08 AM on 24-Mar-1857
 - **Date of Death**: 12-Apr-1889 (age 32)
 
-[[Sakai's backstory notes!Backstory - not 100% final]]
+[[Sakai's backstory notes|Backstory - not 100% final]]
 
 ## Date of Birth
 
