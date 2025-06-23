@@ -156,28 +156,25 @@ Here are the **closest significant Elysiums** within a 1,000 km (approx. 620 mil
 - Could broker high-level Tremere reunification talks from a _distance_, with Denver and Chicago as pivots    
 
 
-## 📍 Strategic Summary
+### Strategic Summary
 
-|Elysium|Function for your network|
-|---|---|
-|**Denver**|Diplomatic and distribution hub|
-|**Colorado Springs**|Military-tech sorcery testbed|
-|**Santa Fe**|Recruitment and esoteric prestige|
-|**Salt Lake City**|Vitae sales and information leverage|
-|**Omaha**|Proxy chantry support and influence export|
-|**Chicago** (optional)|Prestige, legacy, and pan-Clan diplomacy|
+| Elysium                | Function for your network                  |
+| ---------------------- | ------------------------------------------ |
+| **Denver**             | Diplomatic and distribution hub            |
+| **Colorado Springs**   | Military-tech sorcery testbed              |
+| **Santa Fe**           | Recruitment and esoteric prestige          |
+| **Salt Lake City**     | Vitae sales and information leverage       |
+| **Omaha**              | Proxy chantry support and influence export |
+| **Chicago** (optional) | Prestige, legacy, and pan-Clan diplomacy   |
 
----
 
-## 🧭 Travel & Access Logistics
+### Travel & Access Logistics
 
-- **Aspen** has a private airport (ASE) regularly used by billionaires—perfect for Lazarus Club guests, ghoul handlers, or Kindred flying in discreetly.
-    
-- **Haswell** remains close enough to Denver rail and truck routes to **move blood and equipment covertly**, especially if you own the transport links through shell firms.
-    
-- Use **liminal domains** like **Pueblo, CO** as neutral staging zones between Kindred strongholds.
-    
-
----
+- **Aspen** has a private airport (ASE) regularly used by billionaires—perfect for Lazarus Club guests, ghoul handlers, or Kindred flying in discreetly.    
+- **Haswell** remains close enough to Denver rail and truck routes to **move blood and equipment covertly**, especially if you own the transport links through shell firms.    
+- Use **liminal domains** like **Pueblo, CO** as neutral staging zones between Kindred strongholds.    
 
 With Haswell as your arcane sanctum and Aspen as your seductive mask, you are perfectly positioned to build a **Rocky Mountain Tremere nexus**—a regional power base radiating vitae, favors, and fear to any Kindred within a thousand kilometers.
+
+---
+
