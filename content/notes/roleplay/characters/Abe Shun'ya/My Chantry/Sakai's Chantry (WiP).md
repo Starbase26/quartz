@@ -1,7 +1,7 @@
 # [Missile Silo Chantry]
 Needs a better name
 
-## ChatGPT Analysis
+## ChatGPT Analysis (o3)
 
 > ==You are an experienced game master of Vampire the Masquarade and World of Darkness. I am creating a new Vampire character - a 9tn generation Tremere. He's an assassin using Blood magic,. After the fall of the Vienna Chantry, he wants to rebuild the Tremere to a place of influence, in order to do that, he needs a base of operations. I am looking at a former missile silo, since they can be purchased in the USA. Analyse for me, if this is the right thing for my character and why. Also come up with a means that could lead to a succesfull resurgence of the Tremere.==
 
