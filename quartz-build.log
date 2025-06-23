@@ -56123,3 +56123,60 @@ Done processing 22 files in 3s
 
 Backing up your content
 Detected symlink, trying to dereference before committing
+[v4 d18a6d1f3] Quartz sync: Jun 23, 2025, 4:00 PM
+ 37 files changed, 280 insertions(+), 119 deletions(-)
+ create mode 100644 public/Sakai's-paying-the-blood-bill.html
+ create mode 100644 public/tags/Sakai.html
+Pushing your changes
+To github.com:Starbase26/quartz.git
+   765ab2028..d18a6d1f3  v4 -> v4
+branch 'v4' set up to track 'origin/v4'.
+Done!
+✅ Build en sync voltooid op Mon Jun 23 16:00:11 UTC 2025
+🔁 Build gestart op Mon Jun 23 16:05:01 UTC 2025
+
+ Quartz v4.5.1  
+
+Cleaned output directory `public` in 38ms
+Found 22 input files from `content` in 21ms
+Parsing input files using 1 threads
+
+Warning: couldn't find git repository for content
+
+Warning: found invalid date "0" in `index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/My Chantry/Sakai's Chantry (WiP).md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/New vampire character - creation nottes.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/Sakai's Japanese Astrology - Death.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's family.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's known associates.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Session notes/02-05-2025 Saalim.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Player's Guide.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Skill List.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 22 Markdown files in 628ms
+Filtered out 0 files in 128μs
+Emitting files
+Emitted 75 files to `public` in 3s
+Done processing 22 files in 4s
+
+ Quartz v4.5.1 
+
+Backing up your content
+Detected symlink, trying to dereference before committing
