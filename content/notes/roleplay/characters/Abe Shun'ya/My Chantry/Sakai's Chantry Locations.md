@@ -111,69 +111,50 @@ Here are the **closest significant Elysiums** within a 1,000 km (approx. 620 mil
 **Sect**: Camarilla  
 **Why it matters**:
 
-- Smaller but intensely **militarized Kindred scene**
-    
-- Proximity to **NORAD** and military infrastructure gives it a _tech-occult_ overlap—interested in your silo’s defense methods
-    
-- Could be a **testing ground** for thaumaturgic anti-Inquisition tools or ghoul conditioning tech
-    
+- Smaller but intensely **militarized Kindred scene**    
+- Proximity to **NORAD** and military infrastructure gives it a _tech-occult_ overlap—interested in your silo’s defense methods    
+- Could be a **testing ground** for thaumaturgic anti-Inquisition tools or ghoul conditioning tech    
 
----
-
-### 🏙️ **Santa Fe / Albuquerque, New Mexico**
+#### **Santa Fe / Albuquerque, New Mexico**
 
 **Distance from Aspen**: ~550 km (6–7 hours)  
 **Sect**: Semi-independent city; Carna adherents + local occultist circles  
 **Why it matters**:
 
-- Fertile recruiting ground for **disillusioned Tremere** and rogue warlocks
-    
-- Can be brought into your fold with aid, ritual knowledge, or vitae supply
-    
-- Known for **esoteric Elysium rites**—you could impress them by offering ceremonial thaumaturgy consulting
-    
+- Fertile recruiting ground for **disillusioned Tremere** and rogue warlocks    
+- Can be brought into your fold with aid, ritual knowledge, or vitae supply    
+- Known for **esoteric Elysium rites**—you could impress them by offering ceremonial thaumaturgy consulting    
 
----
 
-### 🏙️ **Salt Lake City, Utah**
+#### **Salt Lake City, Utah**
 
 **Distance from Aspen**: ~620 km (7 hours)  
 **Sect**: Camarilla (weak), with strong mortal religious surveillance  
 **Why it matters**:
 
-- Known for **paranoid Kindred governance**—you could offer _RedSeal_ as a substitute for street-feeding
-    
-- A major **boon economy city**—perfect for selling vitae to debt-heavy ancillae
-    
+- Known for **paranoid Kindred governance**—you could offer _RedSeal_ as a substitute for street-feeding    
+- A major **boon economy city**—perfect for selling vitae to debt-heavy ancillae    
 
----
 
-### 🏙️ **Omaha / Lincoln, Nebraska**
+#### **Omaha / Lincoln, Nebraska**
 
 **Distance from Haswell**: ~670 km (7–8 hours)  
 **Sect**: Camarilla  
 **Why it matters**:
 
-- Under-the-radar Elysium with growing importance post-Vienna (some Tremere refugees relocated here)
-    
-- Opportunity to supply a **nascent chantry-in-exile** with blood, glyphs, and safe-house design templates
-    
+- Under-the-radar Elysium with growing importance post-Vienna (some Tremere refugees relocated here)    
+- Opportunity to supply a **nascent chantry-in-exile** with blood, glyphs, and safe-house design templates    
 
----
 
-### ✨ _Bonus: Chicago (extended range)_
+#### _Bonus: Chicago (extended range)_
 
 **Distance from Haswell**: ~1,300 km (12–13 hours; air route preferred)  
 **Why it matters**:
 
-- **Biggest Camarilla Elysium in North America**
-    
-- RedSeal could give you an entry ticket to a truly elite network—elders like Maldavis, Portia, or Critias might treat you as _useful_
-    
-- Could broker high-level Tremere reunification talks from a _distance_, with Denver and Chicago as pivots
-    
+- **Biggest Camarilla Elysium in North America**    
+- RedSeal could give you an entry ticket to a truly elite network—elders like Maldavis, Portia, or Critias might treat you as _useful_    
+- Could broker high-level Tremere reunification talks from a _distance_, with Denver and Chicago as pivots    
 
----
 
 ## 📍 Strategic Summary
 
