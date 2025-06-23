@@ -57237,3 +57237,58 @@ Done processing 23 files in 4s
 
 Backing up your content
 Detected symlink, trying to dereference before committing
+[v4 4c7f4948e] Quartz sync: Jun 23, 2025, 5:40 PM
+ 33 files changed, 112 insertions(+), 55 deletions(-)
+Pushing your changes
+To github.com:Starbase26/quartz.git
+   94807d3f9..4c7f4948e  v4 -> v4
+branch 'v4' set up to track 'origin/v4'.
+Done!
+✅ Build en sync voltooid op Mon Jun 23 17:40:11 UTC 2025
+🔁 Build gestart op Mon Jun 23 17:45:01 UTC 2025
+
+ Quartz v4.5.1  
+
+Cleaned output directory `public` in 30ms
+Found 23 input files from `content` in 17ms
+Parsing input files using 1 threads
+
+Warning: couldn't find git repository for content
+
+Warning: found invalid date "0" in `index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/My Chantry/Sakai's Chantry (WiP).md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/New vampire character - creation nottes.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Abe Shun'ya/Sakai's Japanese Astrology - Death.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's family.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Known Associates/Saalim's known associates.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/characters/Saalim abu Razin/Session notes/02-05-2025 Saalim.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Player's Guide.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Skill List.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/game-mastering/sysdev/epicarcs/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+
+Warning: found invalid date "0" in `notes/roleplay/index.md`. Supported formats: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date#date_time_string_format
+Parsed 23 Markdown files in 641ms
+Filtered out 0 files in 89μs
+Emitting files
+Emitted 78 files to `public` in 3s
+Done processing 23 files in 4s
+
+ Quartz v4.5.1 
+
+Backing up your content
+Detected symlink, trying to dereference before committing
