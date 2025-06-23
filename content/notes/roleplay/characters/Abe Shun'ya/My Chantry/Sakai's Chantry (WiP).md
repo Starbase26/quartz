@@ -18,15 +18,10 @@ Needs a better name
 | **Cold-War mystique.**                                                                 | Mortals already half-believe conspiracy theories about “shadow bunkers”; a few forged documents keep government surveyors away.                                                       |
 
 **Drawbacks you should plan for**
-
-- **Groundwater seepage**—older silos weep through hairline cracks. Flooded levels invite Nosferatu or Dagon-spawn. Line the walls with hermetic silver-mercury seals or employ a Water Elemental Binding rite.
-    
-- **Logistics**—every shipment of cement, steel, or blood dolls leaves a paper trail. Create shell companies (e.g., “Praesidium Agritech”) that order fertilizer and diesel in bulk, masking the real cargo.
-    
-- **Isolation from Domain politics**—far-flung havens help you hide, but praxis is built in Elysia. Establish a downtown “drop apartment” for social manoeuvres and feeding.
-    
-- **Tremere optics**—other Kindred still blame your clan for Pyramid arrogance; a bunker screams “secret cabal.” Offset it with visible good deeds (see below).
-    
+- **Groundwater seepage**—older silos weep through hairline cracks. Flooded levels invite Nosferatu or Dagon-spawn. Line the walls with hermetic silver-mercury seals or employ a Water Elemental Binding rite.    
+- **Logistics**—every shipment of cement, steel, or blood dolls leaves a paper trail. Create shell companies (e.g., “Praesidium Agritech”) that order fertilizer and diesel in bulk, masking the real cargo.    
+- **Isolation from Domain politics**—far-flung havens help you hide, but praxis is built in Elysia. Establish a downtown “drop apartment” for social manoeuvres and feeding.    
+- **Tremere optics**—other Kindred still blame your clan for Pyramid arrogance; a bunker screams “secret cabal.” Offset it with visible good deeds (see below).    
 
 ### Blueprint for Tremere resurgence
 
