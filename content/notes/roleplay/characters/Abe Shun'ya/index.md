@@ -14,6 +14,7 @@ tags:
 - [ ] Bepalen: 
 	- [ ] Waar woont Sakai nu?
 	- [ ] Wat zijn z'n worst fears/dreams?
+	- [ ] Tijdens de strubbelingen rond communisme en WW2, waar was Sakai? Hoe is hij daardoor heen gekomen?
 
 ---
 # Abe Shun’ya
