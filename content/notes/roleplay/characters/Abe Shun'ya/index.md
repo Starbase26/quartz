@@ -15,7 +15,6 @@ tags:
 	- [ ] Waar woont Sakai nu?
 	- [ ] Wat zijn z'n worst fears/dreams?
 
-DIT IS EEN INDEX!!!
 ---
 # Abe Shun’ya
 
