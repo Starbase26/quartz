@@ -9,7 +9,7 @@ tags:
   - vampire
   - tremere
 ---
-> [!Todo]
+> [!Todo]-
 > - [ ] ==Make a short timeline what happened to my character and when!== (table format with columns: "Date/Age", "Event")
 > - [ ] Bepalen: 
 > 	- [ ] Waar woont Sakai nu?
