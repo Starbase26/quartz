@@ -23,10 +23,6 @@ tags:
 - **Given Name** Shun’ya
 - **Call Name** Sakai
 
-timeline
-	title Sakai's timeline
-		12 Apr 1889 : Death / Embrace (Age 32)
-		24 Mar 1857 : Birth
 
 - **Date of Birth**: 8:08 AM on 24-Mar-1857
 - **Date of Death**: 12-Apr-1889 (age 32)
