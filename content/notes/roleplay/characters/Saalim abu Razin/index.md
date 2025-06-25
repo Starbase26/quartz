@@ -6,4 +6,9 @@ tags:
   - roleplay
   - kemet
   - bedouin
+  - deity
 ---
+# Saalim abu Razin Al Medjai
+
+[[Saalim's known associates]]
+
