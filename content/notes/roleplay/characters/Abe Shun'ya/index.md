@@ -9,14 +9,14 @@ tags:
   - vampire
   - tremere
 ---
-**To Do**
-- [ ] ==Make a short timeline what happened to my character and when!== (table format with columns: "Date/Age", "Event")
-- [ ] Bepalen: 
-	- [ ] Waar woont Sakai nu?
-	- [ ] Wat zijn z'n worst fears/dreams?
-	- [ ] Tijdens de strubbelingen rond communisme en WW2, waar was Sakai? Hoe is hij daardoor heen gekomen?
+> [!Todo]
+> - [ ] ==Make a short timeline what happened to my character and when!== (table format with columns: "Date/Age", "Event")
+> - [ ] Bepalen: 
+> 	- [ ] Waar woont Sakai nu?
+> 	- [ ] Wat zijn z'n worst fears/dreams?
+> 	- [ ] Tijdens de strubbelingen rond communisme en WW2, waar was Sakai? Hoe is hij daardoor heen gekomen?
 
----
+
 # Abe Shun’ya
 
 - **Family Name**: Abe
