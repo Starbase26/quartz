@@ -8,14 +8,16 @@ tags:
   - player-character
   - vampire
   - tremere
+date created: 2025-Jun-23 03:34:42
+date modified: 2025-Jun-25 06:50:13
 ---
+
 > [!Todo]-
 > - [ ] ==Make a short timeline what happened to my character and when!== (table format with columns: "Date/Age", "Event")
 > - [ ] Bepalen: 
 > 	- [ ] Waar woont Sakai nu?
 > 	- [ ] Wat zijn z'n worst fears/dreams?
 > 	- [ ] Tijdens de strubbelingen rond communisme en WW2, waar was Sakai? Hoe is hij daardoor heen gekomen?
-
 
 # Abe Shun’ya
 
