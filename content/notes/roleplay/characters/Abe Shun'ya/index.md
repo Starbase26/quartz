@@ -3,13 +3,13 @@ title: Abe Shun'ya
 aliases:
   - Sakai
 date: 2025-06-19
+date created: 2025-Jun-23 03:34:42
+date modified: 2025-Jun-25 06:54:19
 tags:
   - roleplay
   - player-character
   - vampire
   - tremere
-date created: 2025-Jun-23 03:34:42
-date modified: 2025-Jun-25 06:50:13
 ---
 
 > [!Todo]-
