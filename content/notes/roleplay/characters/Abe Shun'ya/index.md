@@ -12,6 +12,7 @@ tags:
   - tremere
 type: character
 player: Kevin Schaaps
+character-name: Abe Shun'ya
 ---
 
 > [!Todo]-
