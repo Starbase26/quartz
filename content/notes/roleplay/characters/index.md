@@ -13,7 +13,7 @@ date: 2025-07-17
 ## List
 
 ```dataview
-table title from "notes/roleplay/characters" 
+list character-name from "notes/roleplay/characters" 
 where type="character"
 ```
 

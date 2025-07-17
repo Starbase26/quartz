@@ -7,6 +7,7 @@ tags:
   - roleplay
   - wizarding-world
 type: character
+character-name: Jabari Adewale al-Masari
 player: Kevin Schaaps
 ---
 
