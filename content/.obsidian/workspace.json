@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/roleplay-note.md",
+                "file": "notes/roleplay/settings/kurvalyn/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "roleplay-note"
+              "title": "index"
             }
           }
         ]
@@ -202,8 +202,14 @@
   },
   "active": "c02464b75366d8d5",
   "lastOpenFiles": [
-    "notes/roleplay/characters/Saalim abu Razin/Session notes/2025-07-16 Saalim.md",
+    "index.md",
     "templates/roleplay-note.md",
+    "templates/chapter.md",
+    "templates/index.md",
+    "notes/roleplay/settings/kurvalyn/index.md",
+    "notes/roleplay/settings/kurvalyn",
+    "notes/roleplay/settings",
+    "notes/roleplay/characters/Saalim abu Razin/Session notes/2025-07-16 Saalim.md",
     "notes/roleplay/characters/Saalim abu Razin/Known Associates/Tribes/Medjai Tribe.md",
     "notes/roleplay/characters/Saalim abu Razin/Known Associates/Tribes/Abu Razin Tribe.md",
     "notes/roleplay/characters/Saalim abu Razin/Session notes/02-05-2025 Saalim.md",
@@ -213,8 +219,6 @@
     "notes/roleplay/characters/Saalim abu Razin/Known Associates/Tribes",
     "notes/roleplay/characters/Abe Shun'ya/index.md",
     "notes/roleplay/characters/Jabari Adewale al-Masari/index.md",
-    "templates/chapter.md",
-    "templates/index.md",
     "notes/roleplay/characters/Saalim abu Razin/index.md",
     "notes/roleplay/characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md",
     "notes/roleplay/characters/Abe Shun'ya/My Chantry/testnote.md",
@@ -228,15 +232,11 @@
     "notes/roleplay/characters/Abe Shun'ya/Sakai's backstory notes!Backstory - not 100% final.md",
     "notes/roleplay/characters/Abe Shun'ya/Sakai's Japanese Astrology - Death.md",
     "templates/New Character.md",
-    "notes/roleplay/game-mastering/sysdev/epicarcs/DD5 Skill List.md",
-    "notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md",
     "notes/roleplay/characters/Ik ben een nieuw character",
     "notes/roleplay/characters/Abe Shun'ya",
     "notes/roleplay/game-mastering/sysdev/epicarcs",
     "notes/roleplay/game-mastering/sysdev",
     "notes/roleplay/game-mastering",
-    "notes/thoughts",
-    "templates",
-    "notes"
+    "notes/thoughts"
   ]
 }
