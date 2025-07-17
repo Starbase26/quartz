@@ -18,19 +18,12 @@ list character-name from "notes/roleplay/characters"
 where type="character"
 ```
 
-<!-- QueryToSerialize: TABLE "character-name" FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
-<!-- SerializedQuery: TABLE "character-name" FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
+<!-- QueryToSerialize: TABLE character-name FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
+<!-- SerializedQuery: TABLE character-name FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
 
-| File                                                                                  | "character-name" |
-| ------------------------------------------------------------------------------------- | ---------------- |
-| [[Abe Shun'ya (Sakai)]] | character-name   |
-| [[notes/roleplay/characters/Jabari Adewale al-Masari/index.md|index]]                | character-name   |
-| [[notes/roleplay/characters/Saalim abu Razin/index.md|index]]                        | character-name   |
+|                                                               | character-name |                                                  |
+| ------------------------------------------------------------- | -------------- | ------------------------------------------------ |
+| [[Abe Shun'ya (Sakai)]]                                       | Abe Shun'ya    |                                                  |
+| [[notes/roleplay/characters/Jabari Adewale al-Masari/index.md | index]]        | Jabari Adewale al-Masari                         |
+| [[notes/roleplay/characters/Saalim abu Razin/index.md         | index]]        | Saalim ibn Naji ibn Mohammed Abu Razin Al Medjai |
 <!-- SerializedQuery END -->
-<!-- SerializedQuery: TABLE "character-name" FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
-
-| File                                                                                  | "character-name" |
-| ------------------------------------------------------------------------------------- | ---------------- |
-| [[Abe Shun'ya (Sakai)]] | character-name   |
-| [[notes/roleplay/characters/Jabari Adewale al-Masari/index.md|index]]                | character-name   |
-| [[notes/roleplay/characters/Saalim abu Razin/index.md|index]]                        | character-name   |
