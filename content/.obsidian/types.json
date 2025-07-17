@@ -6,6 +6,7 @@
     "date created": "date",
     "date modified": "date",
     "session date": "date",
-    "sessionNumber": "number"
+    "sessionNumber": "number",
+    "type": "text"
   }
 }
