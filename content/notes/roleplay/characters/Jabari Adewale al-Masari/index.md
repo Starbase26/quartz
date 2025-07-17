@@ -1,10 +1,13 @@
 ---
-Title: Jabari Adewale al-Masari
+aliases:
+  - Jabari Adewale al-Masari
 date: 2025-06-25
 tags:
   - player-character
   - roleplay
   - wizarding-world
+type: character
+player: Kevin Schaaps
 ---
 
 # Jabari Adewale al-Masari

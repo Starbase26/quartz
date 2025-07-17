@@ -1,5 +1,5 @@
 ---
-aliases:
+Title:
   - Kurvalyn
 type: world
 date: 2025-07-17
@@ -9,3 +9,4 @@ tags:
   - fantasy
 description: High-fantasy world with grimdark elements.
 ---
+

@@ -10,6 +10,8 @@ tags:
   - player-character
   - vampire
   - tremere
+type: character
+player: Kevin Schaaps
 ---
 
 > [!Todo]-
