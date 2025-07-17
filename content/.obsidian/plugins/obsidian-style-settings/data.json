@@ -1,5 +1,6 @@
 {
   "ebullientworks-theme-16@@ebw-header-font-caps-variant": "small-caps",
   "things-style@@fancy-highlight": true,
-  "typomagical-title@@alignment-title": "align-title-left"
+  "typomagical-title@@alignment-title": "align-title-left",
+  "ITS@@select": "pathfinder"
 }
