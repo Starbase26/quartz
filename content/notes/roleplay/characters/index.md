@@ -13,8 +13,7 @@ date: 2025-07-17
 ## List
 
 ```dataview
-table from "notes/roleplay/characters" 
+table title from "notes/roleplay/characters" 
 where type="character"
-sort rating desc 
 ```
 
