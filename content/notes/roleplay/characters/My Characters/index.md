@@ -11,9 +11,12 @@ date: 2025-07-17
 
 These are my current Characters:
 
-<!-- QueryToSerialize: LIST FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
-<!-- SerializedQuery: LIST FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
-- [[Abe Shun'ya (Sakai)]]
-- [[Jabari Adewale al-Masari]]
-- [[Saalim Abu Razin Al Medjai]]
+<!-- QueryToSerialize: table description FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
+<!-- SerializedQuery: table description FROM #roleplay WHERE player="Kevin Schaaps" sort character-name ASC -->
+
+| Id                                                                                                                         | description                                                               |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [[Abe Shun'ya (Sakai)]]                        | Blood magus assassin who wants to return the Tremere to its former glory. |
+| [[Jabari Adewale al-Masari]] | A magic cartographer who specialises in ley line tracking                 |
+| [[Saalim Abu Razin Al Medjai]]     | Young bedouin male, currently the Caliph of the Abu Razin                 |
 <!-- SerializedQuery END -->

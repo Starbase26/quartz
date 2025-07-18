@@ -1,14 +1,14 @@
 ---
-aliases:
-  - Jabari Adewale al-Masari
+type: character
+player: Kevin Schaaps
+character-name: Jabari Adewale al-Masari
 date: 2025-06-25
+modified: 2025-07-18T02:10:00
 tags:
   - player-character
   - roleplay
   - wizarding-world
-type: character
-character-name: Jabari Adewale al-Masari
-player: Kevin Schaaps
+description: A magic cartographer who specialises in ley line tracking
 ---
 
 # Jabari Adewale al-Masari

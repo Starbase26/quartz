@@ -8,6 +8,7 @@
     "session date": "date",
     "sessionNumber": "number",
     "type": "text",
-    "session number": "number"
+    "session number": "number",
+    "modified": "datetime"
   }
 }

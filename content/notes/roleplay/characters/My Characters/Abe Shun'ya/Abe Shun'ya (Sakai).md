@@ -8,7 +8,8 @@ tags:
   - player-character
   - vampire
   - tremere
-description:
+description: Blood magus assassin who wants to return the Tremere to its former glory.
+modified: 2025-07-18T02:10:00
 ---
 
 > [!Todo]-
