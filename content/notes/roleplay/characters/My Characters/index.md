@@ -2,6 +2,8 @@
 aliases:
   - Kevins Characters
 date: 2025-07-17
+tags:
+  - "#overview/roleplay/characters"
 ---
 
 # My Characters
