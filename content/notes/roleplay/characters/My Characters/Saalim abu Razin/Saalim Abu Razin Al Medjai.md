@@ -9,6 +9,7 @@ character-name: Saalim ibn Naji ibn Mohammed Abu Razin Al Medjai
 world: kurvalyn
 description: Young bedouin male, currently the Caliph of the Abu Razin
 location: kemet
+status: playable
 ---
 
 # Saalim abu Razin Al Medjai
