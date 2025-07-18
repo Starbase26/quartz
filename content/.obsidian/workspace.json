@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/roleplay/characters/My Characters/index.md",
+                "file": "templates/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Sakai",
+                "query": "tag:#roleplay/character",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,23 +180,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e94bf87051c876c6",
+  "active": "163bbe8ae30fc46f",
   "lastOpenFiles": [
-    "notes/roleplay/characters/My Characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md",
-    "notes/roleplay/characters/My Characters/index.md",
-    "notes/roleplay/characters/My Characters/Abe Shun'ya/Abe Shun'ya (Sakai).md",
-    "notes/roleplay/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+    "templates/chapter.md",
+    "templates/index.md",
+    "templates/roleplay session note.md",
+    "notes/roleplay/game-mastering/sysdev/epicarcs/Divine Ranks.md",
+    "index.md",
     "notes/roleplay/settings/kurvalyn/index.md",
+    "notes/roleplay/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+    "notes/roleplay/characters/My Characters/index.md",
+    "notes/roleplay/characters/My Characters/Abe Shun'ya/My Chantry/Sakai's paying the blood bill.md",
+    "notes/roleplay/characters/My Characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md",
+    "notes/roleplay/characters/My Characters/Abe Shun'ya/Abe Shun'ya (Sakai).md",
     "notes/roleplay/characters/My Characters",
     "notes/roleplay/characters/Abe Shun'ya/index.md",
     "notes/roleplay/characters/My Characters/Abe Shun'ya/Sakai's Japanese Astrology - birth.md",
     "notes/roleplay/characters/My Characters/Abe Shun'ya/New vampire character - creation nottes.md",
     "notes/roleplay/index.md",
     "notes/roleplay/characters/My Characters/Saalim abu Razin/Session notes/2025-07-16 Saalim.md",
-    "index.md",
-    "templates/roleplay-note.md",
-    "templates/chapter.md",
-    "templates/index.md",
     "notes/roleplay/settings/kurvalyn",
     "notes/roleplay/settings",
     "notes/roleplay/characters/My Characters/Saalim abu Razin/Known Associates/Tribes/Medjai Tribe.md",
@@ -210,7 +211,6 @@
     "notes/roleplay/characters/My Characters/Jabari Adewale al-Masari/Name meaning - Jabari al-Masari.md",
     "notes/roleplay/characters/Abe Shun'ya/My Chantry/testnote.md",
     "notes/roleplay/characters/My Characters/Abe Shun'ya/My Chantry/Sakai's Chantry Locations.md",
-    "notes/roleplay/characters/My Characters/Abe Shun'ya/My Chantry/Sakai's paying the blood bill.md",
     "notes/roleplay/characters/My Characters/Abe Shun'ya/My Chantry/Sakai's Chantry (WiP).md",
     "notes/roleplay/characters/My Characters/Abe Shun'ya/My Chantry",
     "notes/roleplay/characters/Ik ben een nieuw character",
