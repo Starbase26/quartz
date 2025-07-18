@@ -5,7 +5,8 @@ tags:
   - roleplay/character/pc
 type: character
 player: Kevin Schaaps
-character-name: Saalim ibn Naji ibn Mohammed Abu Razin Al Medjai
+character-name:
+  - Saalim abu Razin
 world: kurvalyn
 description: Young bedouin male, currently the Caliph of the Abu Razin
 location: kemet
