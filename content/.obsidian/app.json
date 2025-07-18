@@ -5,5 +5,6 @@
   "showUnsupportedFiles": false,
   "attachmentFolderPath": "./",
   "showInlineTitle": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
 }
