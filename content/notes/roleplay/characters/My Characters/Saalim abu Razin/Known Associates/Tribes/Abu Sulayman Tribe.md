@@ -4,8 +4,8 @@ date modified: 2025-Jul-17 03:38:25
 tags:
   - roleplay
   - bedouin
-  - "#tribe/sulayman"
-  - "#saalim"
+  - "tribe/sulayman"
+  - "saalim"
 ---
 
 # Sulayman Tribe
@@ -26,4 +26,4 @@ The Sheikh of the tribe.
 ## Aïsha
 - Youngest living daughter of Sulayman
 - First follower of Al Zahir
-- Al Zahir gave her one of his guardian fenecs, named K for protection
+- Al Zahir gave her one of his guardian fenecs, named Khushafa, for protection.
