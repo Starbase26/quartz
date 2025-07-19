@@ -3,7 +3,7 @@
   "showLineNumber": false,
   "newFileLocation": "current",
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "_assets",
   "showInlineTitle": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true
