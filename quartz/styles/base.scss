@@ -166,7 +166,7 @@ a {
   margin: 0 auto;
   & article {
     & > h1 {
-      font-size: 1.5rem;
+      font-size: 2rem;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -572,7 +572,9 @@ hr {
   margin: 2rem auto;
   height: 1px;
   border: none;
-  background-color: var(--lightgray);
+  // // CHANGED!!!!
+  //background-color: var(--lightgray);
+  background-color: var(--gray);
 }
 
 audio,
