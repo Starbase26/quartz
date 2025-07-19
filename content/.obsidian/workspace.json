@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ScratchPad/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,13 +180,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d91383130075fab1",
+  "active": "163bbe8ae30fc46f",
   "lastOpenFiles": [
+    "ScratchPad/index.md",
     "Personal/Clippings",
     "Personal/Journal",
     "Personal",
     "ScratchPad/AI Comparison.md",
-    "ScratchPad/index.md",
     "index.md",
     "test1/test1-note.md",
     "test1",
@@ -217,7 +217,6 @@
     "TTRPG/index.md",
     "TTRPG/worlds/kurvalyn",
     "TTRPG/worlds",
-    "TTRPG/characters/My Characters/Saalim abu Razin/Known Associates/Tribes/Medjai Tribe.md",
-    "TTRPG/characters/My Characters/Saalim abu Razin/Known Associates/Tribes"
+    "TTRPG/characters/My Characters/Saalim abu Razin/Known Associates/Tribes/Medjai Tribe.md"
   ]
 }
