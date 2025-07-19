@@ -1,6 +1,8 @@
 {
   "foldersToScan": [
-    "notes/roleplay"
+    "TTRPG",
+    "ScratchPad",
+    "Personal"
   ],
   "ignoredFolders": []
 }
