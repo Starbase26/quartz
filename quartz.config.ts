@@ -12,11 +12,12 @@ const config: QuartzConfig = {
     pageTitleSuffix: "Starbase26",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
+    // analytics: {
+    //   provider: "plausible",
+    // },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "www.starbase26.nl/kevin",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
