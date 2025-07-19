@@ -26,8 +26,8 @@ const config: QuartzConfig = {
       typography: {
         // header: "Schibsted Grotesk",
         header: "Merienda",
-        body: " IBM Plex Mono",
-        code: " Anonymous Pro",
+        body: "Montserrat Alternates",
+        code: "Anonymous Pro",
       },
       colors: {
         lightMode: {
