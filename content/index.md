@@ -7,8 +7,11 @@ date: 2025-07-19
 ## Latest updated notes:
 
 ```dataview
-LIST
-
+TABLE title
+WHERE file.name != ""
+AND title != ""
+SORT file-mtime DESC
+LIMIT 30
 ```
 
 <!-- QueryToSerialize: LIST "The Vault" sort modified DESC -->
