@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "The Vault",
-    pageTitleSuffix: "Starbase26",
+    pageTitleSuffix: " - Starbase26",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -25,9 +25,9 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         // header: "Schibsted Grotesk",
-        header: "Workbench",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Merienda",
+        body: " IBM Plex Mono",
+        code: " Anonymous Pro",
       },
       colors: {
         lightMode: {
