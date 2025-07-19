@@ -26,4 +26,4 @@ The Sheikh of the tribe.
 ## Aïsha
 - Youngest living daughter of Sulayman
 - First follower of Al Zahir
-- Al Zahir gave her one of his guardian cats for protection
+- Al Zahir gave her one of his guardian fenecs, named K for protection
