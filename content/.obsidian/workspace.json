@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/session notes/20250716 Saalim.md",
+                "file": "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250716 Saalim"
-            }
-          },
-          {
-            "id": "34d36d6e12b12cd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTRPG/session notes/20250718 Saalim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250718 Saalim"
+              "title": "Saalim Abu Razin Al Medjai"
             }
           }
         ]
@@ -156,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/session notes/20250716 Saalim.md",
+                "file": "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250716 Saalim"
+              "title": "Outline of Saalim Abu Razin Al Medjai"
             }
           },
           {
@@ -196,12 +182,13 @@
   },
   "active": "a2901e43d157e259",
   "lastOpenFiles": [
-    "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
-    "TTRPG/session notes/20250718 Saalim.md",
     "TTRPG/session notes/20250502 Saalim.md",
+    "TTRPG/session notes/20250718 Saalim.md",
+    "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+    "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
+    "TTRPG/characters/My Characters/index.md",
     "TTRPG/session notes/20250716 Saalim.md",
     "templates/roleplay-player-note.md",
-    "TTRPG/characters/My Characters/index.md",
     "templates/chapter.md",
     "templates/index.md",
     "ScratchPad/warhammer-fantasy-roleplay-books-checklist.md",
@@ -226,7 +213,6 @@
     "TTRPG/characters/My Characters/Saalim abu Razin/Known Associates/Tribes/Abu Sulayman Tribe.md",
     "TTRPG/characters/My Characters/Abe Shun'ya/New vampire character - creation nottes.md",
     "TTRPG/session notes",
-    "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
     "notes/roleplay/characters/My Characters/Saalim abu Razin/Session notes/2025-07-16 Saalim.md",
     "TTRPG/characters/My Characters/Shariff",
     "TTRPG/game-mastering/sysdev/epicarcs/Divine Ranks.md",
