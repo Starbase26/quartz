@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Personal/BluRays/My BluRays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "My BluRays"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "163bbe8ae30fc46f",
   "lastOpenFiles": [
-    "TTRPG/characters/My Characters/index.md",
     "index.md",
+    "Personal/BluRays/My BluRays.md",
+    "Personal/BluRays",
+    "TTRPG/characters/My Characters/index.md",
     "TTRPG/index.md",
     "ScratchPad/index.md",
     "Personal/Clippings",
@@ -216,7 +218,6 @@
     "notes/roleplay/characters/Abe Shun'ya/index.md",
     "TTRPG/characters/My Characters/Abe Shun'ya/Sakai's Japanese Astrology - birth.md",
     "TTRPG/worlds/kurvalyn",
-    "TTRPG/worlds",
     "TTRPG/characters/My Characters/Saalim abu Razin/Known Associates/Tribes/Medjai Tribe.md"
   ]
 }

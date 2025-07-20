@@ -9,7 +9,8 @@
     "sessionNumber": "number",
     "type": "text",
     "session number": "number",
-    "modified": "datetime",
-    "character-name": "multitext"
+    "modified": "text",
+    "character-name": "multitext",
+    "created": "date"
   }
 }
