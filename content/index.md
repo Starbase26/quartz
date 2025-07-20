@@ -1,7 +1,7 @@
 ---
 date: 2025-07-19
 created: 19-06-2025 17:05:20
-modified: 20-07-2025 16:08:19
+modified: 20-07-2025 16:53:03
 aliases: ["Kevin's Vault"]
 linter-yaml-title-alias: "Kevin's Vault"
 ---
@@ -22,19 +22,19 @@ linter-yaml-title-alias: "Kevin's Vault"
 
 ## Latest updated notes:
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "note", type, file.folder as "dir" FROM "" WHERE file.mtime != "" SORT file.mtime DESC LIMIT 10 -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as "note", type, file.folder as "dir" FROM "" WHERE file.mtime != "" SORT file.mtime DESC LIMIT 10 -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "note", type, file.folder as "dir" FROM "" WHERE file.mtime != "" AND file.name != "index" SORT file.mtime DESC LIMIT 10 -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link as "note", type, file.folder as "dir" FROM "" WHERE file.mtime != "" AND file.name != "index" SORT file.mtime DESC LIMIT 10 -->
 
-| note                                                                                                          | type      | dir                                             |
-| ------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
-| [[index.md|index]]                                                                                           | \-        |                                                 |
-| [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
-| [[20250502 Saalim]]                                                   | session   | TTRPG/session notes                             |
-| [[20250716 Saalim]]                                                   | session   | TTRPG/session notes                             |
-| [[20250718 Saalim]]                                                   | session   | TTRPG/session notes                             |
-| [[roleplay-player-note]]                                                   | \-        | templates                                       |
-| [[TTRPG/characters/My Characters/index.md|index]]                                                            | \-        | TTRPG/characters/My Characters                  |
-| [[narrative-structures]]                                                  | \-        | ScratchPad                                      |
-| [[my-blurays]]                                                                | \-        | Personal/BluRays                                |
-| [[Abe Shun'ya (Sakai)]]                    | character | TTRPG/characters/My Characters/Abe Shun'ya      |
+| note                                                                                                                  | type      | dir                                                                     |
+| --------------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------------------------------- |
+| [[narrative-structures]]                                                          | \-        | ScratchPad                                                              |
+| [[Saalim Abu Razin Al Medjai]]         | character | TTRPG/characters/My Characters/Saalim abu Razin                         |
+| [[20250502 Saalim]]                                                           | session   | TTRPG/session notes                                                     |
+| [[20250716 Saalim]]                                                           | session   | TTRPG/session notes                                                     |
+| [[20250718 Saalim]]                                                           | session   | TTRPG/session notes                                                     |
+| [[roleplay-player-note]]                                                           | \-        | templates                                                               |
+| [[my-blurays]]                                                                        | \-        | Personal/BluRays                                                        |
+| [[Abe Shun'ya (Sakai)]]                            | character | TTRPG/characters/My Characters/Abe Shun'ya                              |
+| [[warhammer-fantasy-roleplay-books-checklist]]              | \-        | ScratchPad                                                              |
+| [[Abu Sulayman Tribe]] | \-        | TTRPG/characters/My Characters/Saalim abu Razin/Known Associates/Tribes |
 <!-- SerializedQuery END -->
