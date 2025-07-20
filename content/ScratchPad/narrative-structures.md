@@ -2,7 +2,7 @@
 title: Narrative Structures
 date: 2025-06-19
 created: 18-06-2025 17:52:13
-modified: 20-07-2025 14:41:16
+modified: 20-07-2025 14:42:29
 ---
 
 # Narrative Structures
@@ -20,7 +20,9 @@ modified: 20-07-2025 14:41:16
 | Seven-Point Structure     | ⭐                      | Plot precision                    | Avoid for atmospheric horror       |
 
 
-## **1. Dan Harmon’s Story Circle** — _Most effective for horror TTRPGs_
+## **1. Dan Harmon’s Story Circle** 
+
+> Most effective for horror TTRPGs
 
 **Why:**  
 The cyclical nature of the story circle mirrors how horror plays out: normalcy is disrupted, characters descend into chaos, and when they return, they’re no longer whole. The **"pay a heavy price"** and **"return changed"** steps naturally accommodate dread, madness, trauma, or loss—horror’s cornerstones. It also supports player-driven decisions within a loose arc.
@@ -69,7 +71,8 @@ The Hero’s Journey emphasizes triumph and transformation. Horror usually strip
 
 
 ## **5. Seven-Point Story Structure** 
-Least fitting for horror TTRPGs
+
+>  Least fitting for horror TTRPGs
 
 **Why:**  
 This structure is too plot-centric. Horror thrives on mood, atmosphere, and uncertainty, not tightly engineered plot turns. While the model supports tension spikes, it doesn't give dread time to metastasize.
