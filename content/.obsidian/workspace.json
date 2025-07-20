@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saalim Abu Razin Al Medjai"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Saalim Abu Razin Al Medjai"
+              "title": "Outline of index"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "a2901e43d157e259",
   "lastOpenFiles": [
-    "TTRPG/session notes/20250502 Saalim.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+    "TTRPG/session notes/20250502 Saalim.md",
     "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
     "TTRPG/session notes/20250718 Saalim.md",
     "TTRPG/characters/My Characters/index.md",
