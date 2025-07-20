@@ -75,7 +75,7 @@
       "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
-      "enabled": true,
+      "enabled": false,
       "preserve-existing-alias-section-style": true,
       "keep-alias-that-matches-the-filename": false,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
@@ -213,10 +213,10 @@
       "enabled": false
     },
     "paragraph-blank-lines": {
-      "enabled": true
+      "enabled": false
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
-      "enabled": true
+      "enabled": false
     },
     "remove-link-spacing": {
       "enabled": false
