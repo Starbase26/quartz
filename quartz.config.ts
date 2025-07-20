@@ -25,8 +25,10 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         // header: "Schibsted Grotesk",
-        header: "Merienda",
-        body: "Montserrat Alternates",
+        // header: "Merienda",
+        // body: "Montserrat Alternates",
+        header: "Inter",
+        body: "Newsreader",
         code: "Anonymous Pro",
       },
       colors: {
