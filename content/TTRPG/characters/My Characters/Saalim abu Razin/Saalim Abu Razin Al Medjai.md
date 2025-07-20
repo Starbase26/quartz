@@ -1,6 +1,6 @@
 ---
 created: 25-06-2025 17:35:17
-modified: 20-07-2025 15:44:26
+modified: 20-07-2025 18:46:03
 tags:
   - roleplay/character/pc
 type: character
@@ -26,6 +26,7 @@ status: playable
 
 | log                                                         | summary                                                  |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
+| [[20250720]]               | Saarlim en Kareema kletsen over van alles                |
 | [[20250718 Saalim]] | Plan hatched to help Omar Mawazi ditch his wife          |
 | [[20250716 Saalim]] | Omar Mawazi's wife, the Banshee, Destruction of Al Qadir |
 | [[20250502 Saalim]] | Adventure - The Black Pyramid                            |

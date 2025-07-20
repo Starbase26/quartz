@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Saalim Abu Razin Al Medjai"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Saalim Abu Razin Al Medjai"
             }
           },
           {
@@ -182,13 +182,14 @@
   },
   "active": "a2901e43d157e259",
   "lastOpenFiles": [
-    "ScratchPad/narrative-structures.md",
+    "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
     "index.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
-    "TTRPG/session notes/20250502 Saalim.md",
-    "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
-    "TTRPG/session notes/20250718 Saalim.md",
     "TTRPG/characters/My Characters/index.md",
+    "TTRPG/session notes/20250720.md",
+    "ScratchPad/narrative-structures.md",
+    "TTRPG/session notes/20250502 Saalim.md",
+    "TTRPG/session notes/20250718 Saalim.md",
     "TTRPG/session notes/20250716 Saalim.md",
     "templates/roleplay-player-note.md",
     "templates/chapter.md",
@@ -216,7 +217,6 @@
     "notes/roleplay/characters/My Characters/Saalim abu Razin/Session notes/2025-07-16 Saalim.md",
     "TTRPG/characters/My Characters/Shariff",
     "TTRPG/game-mastering/sysdev/epicarcs/Divine Ranks.md",
-    "TTRPG/characters/My Characters/Abe Shun'ya/My Chantry/Sakai's paying the blood bill.md",
     "TTRPG/characters/My Characters",
     "TTRPG/worlds/kurvalyn"
   ]
