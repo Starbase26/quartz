@@ -15,13 +15,18 @@ status: playable
 
 # Saalim abu Razin Al Medjai
 
+## Known Associates
+
 [[Saalim's known associates]]
 
 ## Session log
 
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "log", summary FROM "" WHERE contains(character-name, "Saalim abu Razin") AND type="session" SORT file.name DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link AS "log", summary FROM "" WHERE contains(character-name, "Saalim abu Razin ") AND type="session" SORT file.name DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link AS "log", summary FROM "" WHERE contains(character-name, "Saalim abu Razin") AND type="session" SORT file.name DESC -->
 
-| log | summary |
-| --- | ------- |
+| log                                                         | summary                                                  |
+| ----------------------------------------------------------- | -------------------------------------------------------- |
+| [[20250718 Saalim]] | Plan hatched to help Omar Mawazi ditch his wife          |
+| [[20250716 Saalim]] | Omar Mawazi's wife, the Banshee, Destruction of Al Qadir |
+| [[20250502 Saalim]] | Adventure - The Black Pyramid                            |
 <!-- SerializedQuery END -->
