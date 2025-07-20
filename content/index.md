@@ -13,8 +13,8 @@ linter-yaml-title-alias: "Kevin's Vault"
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "Note", file.mtime AS "Last Modified" WHERE contains(file.tags, "#todo") SORT file.mtime ASC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link AS "Note", file.mtime AS "Last Modified" WHERE contains(file.tags, "#todo") SORT file.mtime ASC -->
 
-| Note                    | Last Modified    |
-| ----------------------- | ---------------- |
+| Note                                                                                       | Last Modified    |
+| ------------------------------------------------------------------------------------------ | ---------------- |
 | [[Abe Shun'ya (Sakai)]] | 2025-07-20 04:21 |
 <!-- SerializedQuery END -->
 
@@ -33,7 +33,7 @@ linter-yaml-title-alias: "Kevin's Vault"
 | [[Abe Shun'ya (Sakai)]]                            | Abe Shun'ya (Sakai)                        | character | TTRPG/characters/My Characters/Abe Shun'ya                              |
 | [[2025-07-16 Saalim]]                                                       | 2025-07-16 Saalim                          | session   | TTRPG/session notes                                                     |
 | [[warhammer-fantasy-roleplay-books-checklist]]              | warhammer-fantasy-roleplay-books-checklist | \-        | ScratchPad                                                              |
-| [[My BluRays]]                                                                        | My BluRays                                 | \-        | Personal/BluRays                                                        |
+| [[my-blurays]]                                                                        | my-blurays                                 | \-        | Personal/BluRays                                                        |
 | [[ScratchPad/index.md|index]]                                                                                        | index                                      | \-        | ScratchPad                                                              |
 | [[Abu Sulayman Tribe]] | Abu Sulayman Tribe                         | \-        | TTRPG/characters/My Characters/Saalim abu Razin/Known Associates/Tribes |
 | [[Shariff Amr'Duath]]                                    | Shariff Amr'Duath                          | dpc       | TTRPG/characters/My Characters/Shariff                                  |
