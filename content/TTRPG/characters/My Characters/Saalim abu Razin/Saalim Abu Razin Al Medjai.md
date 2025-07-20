@@ -1,6 +1,6 @@
 ---
 created: 25-06-2025 17:35:17
-modified: 20-07-2025 18:46:03
+modified: 20-07-2025 18:46:35
 tags:
   - roleplay/character/pc
 type: character
