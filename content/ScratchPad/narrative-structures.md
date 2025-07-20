@@ -2,10 +2,8 @@
 title: Narrative Structures
 date: 2025-06-19
 created: 18-06-2025 17:52:13
-modified: 20-07-2025 14:42:29
+modified: 20-07-2025 16:35:06
 ---
-
-# Narrative Structures
 
 ## Overview
 
@@ -18,7 +16,6 @@ modified: 20-07-2025 14:42:29
 | Three-Act Structure       | ⭐⭐⭐                    | Clean, easy, one-shot friendly    | Classic horror sessions            |
 | Hero’s Journey            | ⭐⭐                     | Epic scope, subversion potential  | Dark fantasy horror                |
 | Seven-Point Structure     | ⭐                      | Plot precision                    | Avoid for atmospheric horror       |
-
 
 ## **1. Dan Harmon’s Story Circle** 
 

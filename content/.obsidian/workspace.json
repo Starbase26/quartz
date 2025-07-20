@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "ScratchPad/narrative-structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "narrative-structures"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "ScratchPad/narrative-structures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of narrative-structures"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "a2901e43d157e259",
   "lastOpenFiles": [
+    "index.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
     "TTRPG/session notes/20250502 Saalim.md",
     "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
@@ -196,7 +197,6 @@
     "ScratchPad/ai-output-tweaking.md",
     "ScratchPad/ai-comparison.md",
     "Personal/BluRays/my-blurays.md",
-    "index.md",
     "TTRPG/characters/My Characters/Abe Shun'ya/Abe Shun'ya (Sakai).md",
     "TTRPG/worlds/kurvalyn/index.md",
     "ScratchPad/index.md",
