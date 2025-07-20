@@ -1,7 +1,7 @@
 ---
 date: 2025-07-19
 created: 19-06-2025 17:05:20
-modified: 20-07-2025 04:22:53
+modified: 20-07-2025 04:44:08
 aliases: ["Kevin's Vault"]
 linter-yaml-title-alias: "Kevin's Vault"
 ---
@@ -10,13 +10,13 @@ linter-yaml-title-alias: "Kevin's Vault"
 
 ## Still to do
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "Note", file.mtime AS "Last Modified" WHERE contains(file.tags, "#todo") SORT file.mtime DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link AS "Note", file.mtime AS "Last Modified" WHERE contains(file.tags, "#todo") SORT file.mtime DESC -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "Note", file.mtime AS "Last Modified" WHERE contains(file.tags, "#todo") SORT file.mtime ASC -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link AS "Note", file.mtime AS "Last Modified" WHERE contains(file.tags, "#todo") SORT file.mtime ASC -->
 
 | Note                                                                                       | Last Modified    |
 | ------------------------------------------------------------------------------------------ | ---------------- |
-| [[Abe Shun'ya (Sakai)]] | 2025-07-20 04:21 |
 | [[2025-07-18 Saalim]]                            | 2025-07-19 04:28 |
+| [[Abe Shun'ya (Sakai)]] | 2025-07-20 04:21 |
 <!-- SerializedQuery END -->
 
 ---
