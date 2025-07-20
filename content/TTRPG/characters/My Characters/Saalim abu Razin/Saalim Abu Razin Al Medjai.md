@@ -1,6 +1,6 @@
 ---
 created: 25-06-2025 17:35:17
-modified: 20-07-2025 15:04:41
+modified: 20-07-2025 15:44:26
 tags:
   - roleplay/character/pc
 type: character
@@ -20,11 +20,8 @@ status: playable
 ## Session log
 
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "log", summary FROM "" WHERE contains(character-name, "Saalim abu Razin") AND type="session" SORT file.name DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link AS "log", summary FROM "" WHERE contains(character-name, "Saalim abu Razin") AND type="session" SORT file.name DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link AS "log", summary FROM "" WHERE contains(character-name, "Saalim abu Razin ") AND type="session" SORT file.name DESC -->
 
-| log                                                         | summary                                                  |
-| ----------------------------------------------------------- | -------------------------------------------------------- |
-| [[20250718 Saalim]] | Plan hatched to help Omar Mawazi ditch his wife          |
-| [[20250716 Saalim]] | Omar Mawazi's wife, the Banshee, Destruction of Al Qadir |
-| [[20250502 Saalim]] | Adventure - The Black Pyramid                            |
+| log | summary |
+| --- | ------- |
 <!-- SerializedQuery END -->
