@@ -1,6 +1,10 @@
 ---
 title: Warhammer Fantasy Roleplay books Checklist
 date: 2025-06-19
+aliases: [WFRP Books Checklist]
+linter-yaml-title-alias: WFRP Books Checklist
+created: 18-06-2025 17:52:13
+modified: 20-07-2025 04:05:43
 ---
 
 # WFRP Books Checklist
