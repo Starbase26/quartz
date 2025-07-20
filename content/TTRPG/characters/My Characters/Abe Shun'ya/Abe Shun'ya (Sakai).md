@@ -1,13 +1,16 @@
 ---
 type: character
 player: Kevin Schaaps
-character-name: Abe Shun'ya
+character-name:
+  - Abe Shun'ya
 date: 2025-06-19
 tags:
   - roleplay/character/pc
+  - "todo"
 description: Blood magus assassin who wants to return the Tremere to its former glory.
-modified: 2025-07-18T02:10:00
+modified: 20-07-2025 04:21:33
 status: concept
+created: 17-07-2025 19:58:21
 ---
 
 > [!Todo]-

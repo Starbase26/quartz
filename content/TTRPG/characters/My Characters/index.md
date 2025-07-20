@@ -13,8 +13,8 @@ tags:
 
 | Name                                                                                                              | description                                                               |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [[Saalim Abu Razin Al Medjai]]     | Young bedouin male, currently the Caliph of the Abu Razin                 |
 | [[Abe Shun'ya (Sakai)]]                        | Blood magus assassin who wants to return the Tremere to its former glory. |
+| [[Saalim Abu Razin Al Medjai]]     | Young bedouin male, currently the Caliph of the Abu Razin                 |
 | [[Jabari Adewale al-Masari]] | A magic cartographer who specialises in ley line tracking                 |
 | [[Shariff Amr'Duath]]                                | \-                                                                        |
 <!-- SerializedQuery END -->
