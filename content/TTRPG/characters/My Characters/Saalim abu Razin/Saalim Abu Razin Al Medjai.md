@@ -1,6 +1,6 @@
 ---
 date: 2020-01-01
-modified: 20-07-2025 14:46:00
+modified: 20-07-2025 14:50:47
 tags:
   - roleplay/character/pc
 type: character
@@ -20,9 +20,4 @@ created: 25-06-2025 17:35:17
 
 ## Session log
 
-<!-- QueryToSerialize: TABLE file.link as "log" FROM "TTRPG" WHERE character-name = "Saalim abu Razin" SORT file.name DESC -->
-<!-- SerializedQuery: TABLE file.link as "log" FROM "TTRPG" WHERE character-name = "Saalim abu Razin" SORT file.name DESC -->
-
-| Name | log |
-| ---- | --- |
-<!-- SerializedQuery END -->
+<!-- QueryToSerialize: TABLE WITHOUT I file.link AS "log" FROM "TTRPG" WHERE contains(character-name, "Saalim abu Razin") SORT file.name DESC -->
