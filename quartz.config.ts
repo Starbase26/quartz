@@ -27,7 +27,7 @@ const config: QuartzConfig = {
         // header: "Schibsted Grotesk",
         // header: "Merienda",
         // body: "Montserrat Alternates",
-        header: "Inter",
+        header: " Stick No Bills",
         body: "Newsreader",
         code: "Anonymous Pro",
       },
