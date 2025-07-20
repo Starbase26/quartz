@@ -25,16 +25,16 @@ linter-yaml-title-alias: "Kevin's Vault"
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "note", file.name as "name", type, file.folder as "dir" FROM "" WHERE file.mtime != "" SORT file.mtime DESC LIMIT 10 -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "note", file.name as "name", type, file.folder as "dir" FROM "" WHERE file.mtime != "" SORT file.mtime DESC LIMIT 10 -->
 
-| note                                                                                                                  | name                                       | type      | dir                                                                     |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | --------- | ----------------------------------------------------------------------- |
-| [[index.md|index]]                                                                                                   | index                                      | \-        |                                                                         |
-| [[2025-07-18 Saalim]]                                                       | 2025-07-18 Saalim                          | session   | TTRPG/session notes                                                     |
-| [[TTRPG/characters/My Characters/index.md|index]]                                                                    | index                                      | \-        | TTRPG/characters/My Characters                                          |
-| [[Abe Shun'ya (Sakai)]]                            | Abe Shun'ya (Sakai)                        | character | TTRPG/characters/My Characters/Abe Shun'ya                              |
-| [[2025-07-16 Saalim]]                                                       | 2025-07-16 Saalim                          | session   | TTRPG/session notes                                                     |
-| [[warhammer-fantasy-roleplay-books-checklist]]              | warhammer-fantasy-roleplay-books-checklist | \-        | ScratchPad                                                              |
-| [[my-blurays]]                                                                        | my-blurays                                 | \-        | Personal/BluRays                                                        |
-| [[ScratchPad/index.md|index]]                                                                                        | index                                      | \-        | ScratchPad                                                              |
-| [[Abu Sulayman Tribe]] | Abu Sulayman Tribe                         | \-        | TTRPG/characters/My Characters/Saalim abu Razin/Known Associates/Tribes |
-| [[Shariff Amr'Duath]]                                    | Shariff Amr'Duath                          | dpc       | TTRPG/characters/My Characters/Shariff                                  |
+| note                                                                                                          | name                       | type      | dir                                             |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------- | --------- | ----------------------------------------------- |
+| [[index.md|index]]                                                                                           | index                      | \-        |                                                 |
+| [[Saalim Abu Razin Al Medjai]] | Saalim Abu Razin Al Medjai | character | TTRPG/characters/My Characters/Saalim abu Razin |
+| [[20250502 Saalim]]                                                   | 20250502 Saalim            | session   | TTRPG/session notes                             |
+| [[TTRPG/characters/My Characters/index.md|index]]                                                            | index                      | \-        | TTRPG/characters/My Characters                  |
+| [[roleplay-player-note]]                                                   | roleplay-player-note       | \-        | templates                                       |
+| [[narrative-structures]]                                                  | narrative-structures       | \-        | ScratchPad                                      |
+| [[my-blurays]]                                                                | my-blurays                 | \-        | Personal/BluRays                                |
+| [[20250718 Saalim]]                                                   | 20250718 Saalim            | session   | TTRPG/session notes                             |
+| [[Abe Shun'ya (Sakai)]]                    | Abe Shun'ya (Sakai)        | character | TTRPG/characters/My Characters/Abe Shun'ya      |
+| [[20250716 Saalim]]                                                   | 20250716 Saalim            | session   | TTRPG/session notes                             |
 <!-- SerializedQuery END -->
