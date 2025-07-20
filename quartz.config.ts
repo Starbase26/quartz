@@ -27,7 +27,7 @@ const config: QuartzConfig = {
         // header: "Schibsted Grotesk",
         // header: "Merienda",
         // body: "Montserrat Alternates",
-        header: "Cormorant",
+        header: "IBM Plex Sans",
         body: "Newsreader",
         code: "Anonymous Pro",
       },
