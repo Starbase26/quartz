@@ -142,7 +142,7 @@
       "list-end-style": "."
     },
     "proper-ellipsis": {
-      "enabled": true
+      "enabled": false
     },
     "quote-style": {
       "enabled": false,
@@ -199,7 +199,7 @@
       "enabled": false
     },
     "empty-line-around-tables": {
-      "enabled": true
+      "enabled": false
     },
     "heading-blank-lines": {
       "enabled": false,
