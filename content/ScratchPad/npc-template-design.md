@@ -1,6 +1,6 @@
 ---
 created: 24-07-2025 16:13:18
-modified: 24-07-2025 16:16:13
+modified: 24-07-2025 16:18:07
 ---
 # NPC Template Design
 
@@ -12,5 +12,12 @@ Ik merk op dat veel mensen een oppervlakkige benadering hebben van NPCs terwijl 
 
 Wat zijn attributen die ik belangrijk om te hebben van NPCs:
 - Naam
-- Factie - waar horen ze bij.
-- 
+- Factie
+  waar horen ze bij: 
+		- vb: 
+			- Medjai
+			- Abu Razin 
+			- Modern Medjai
+			- The Family
+- relaties met andere characters (PC/NPC) 
+  NPCs kunnen familie zijn van andere NPCs . 
