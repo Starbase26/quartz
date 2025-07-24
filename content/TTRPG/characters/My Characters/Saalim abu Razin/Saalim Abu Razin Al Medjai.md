@@ -1,6 +1,6 @@
 ---
 created: 25-06-2025 17:35:17
-modified: 21-07-2025 02:00:36
+modified: 24-07-2025 15:16:21
 tags:
   - roleplay/character/pc
 type: character
@@ -26,9 +26,10 @@ status: playable
 
 | log                                                         | summary                                                  |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
-| [[TTRPG/session notes/20250720.md\|20250720]]               | Saarlim en Kareema kletsen over van alles                |
-| [[TTRPG/session notes/20250718 Saalim.md\|20250718 Saalim]] | Plan hatched to help Omar Mawazi ditch his wife          |
-| [[TTRPG/session notes/20250716 Saalim.md\|20250716 Saalim]] | Omar Mawazi's wife, the Banshee, Destruction of Al Qadir |
-| [[TTRPG/session notes/20250502 Saalim.md\|20250502 Saalim]] | Adventure - The Black Pyramid                            |
+| [[20250723]]               | \-                                                       |
+| [[TTRPG/session notes/20250720.md|20250720]]               | Saalim en Kareema kletsen over van alles                 |
+| [[20250718 Saalim]] | Plan hatched to help Omar Mawazi ditch his wife          |
+| [[20250716 Saalim]] | Omar Mawazi's wife, the Banshee, Destruction of Al Qadir |
+| [[20250502 Saalim]] | Adventure - The Black Pyramid                            |
 <!-- SerializedQuery END -->
 	

@@ -27,6 +27,7 @@ linter-yaml-title-alias: "Kevin's Vault"
 
 | note                                                                                                          | type      | dir                                             |
 | ------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
+| [[20250723]]                                                                 | session   | TTRPG/session notes                             |
 | [[TTRPG/session notes/20250720.md|20250720]]                                                                 | session   | TTRPG/session notes                             |
 | [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
 | [[20250720.md|20250720]]                                                                                     | \-        |                                                 |
@@ -36,5 +37,4 @@ linter-yaml-title-alias: "Kevin's Vault"
 | [[20250718 Saalim]]                                                   | session   | TTRPG/session notes                             |
 | [[roleplay-player-note]]                                                   | \-        | templates                                       |
 | [[my-blurays]]                                                                | \-        | Personal/BluRays                                |
-| [[Abe Shun'ya (Sakai)]]                    | character | TTRPG/characters/My Characters/Abe Shun'ya      |
 <!-- SerializedQuery END -->
