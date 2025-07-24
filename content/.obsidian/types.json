@@ -11,6 +11,7 @@
     "session number": "number",
     "modified": "datetime",
     "character-name": "multitext",
-    "created": "datetime"
+    "created": "datetime",
+    "title": "text"
   }
 }
