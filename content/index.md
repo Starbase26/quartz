@@ -27,8 +27,8 @@ linter-yaml-title-alias: "Kevin's Vault"
 
 | note                                                                                                          | type      | dir                                             |
 | ------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
-| [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
 | [[20250724]]                                                                 | session   | TTRPG/session notes                             |
+| [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
 | [[npc-template-design]]                                                    | \-        | ScratchPad                                      |
 | [[20250716]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250720]]                                                                 | session   | TTRPG/session notes                             |
