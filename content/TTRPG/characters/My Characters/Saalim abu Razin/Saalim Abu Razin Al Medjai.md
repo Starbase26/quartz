@@ -26,6 +26,7 @@ status: playable
 
 | log                                           | summary                                                                                                                                                                    |
 | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[20250724]] | \-                                                                                                                                                                         |
 | [[20250723]] | Twee jongens ruziën om een meisje; zij vindt het stiekem leuk en gooit water over hen. Saalim straft hen met 7 weken kamelen verzorgen, maar dat houdt maar één dag stand. |
 | [[20250718]] | Plan hatched to help Omar Mawazi ditch his wife                                                                                                                            |
 | [[20250716]] | Omar Mawazi's wife, the Banshee, Destruction of Al Qadir                                                                                                                   |
