@@ -61,7 +61,7 @@
       "enabled": true,
       "date-created": true,
       "date-created-key": "created",
-      "date-created-source-of-truth": "frontmatter",
+      "date-created-source-of-truth": "file system",
       "date-modified": true,
       "date-modified-key": "modified",
       "date-modified-source-of-truth": "user or Linter edits",
