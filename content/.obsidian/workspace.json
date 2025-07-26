@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Saalim Abu Razin Al Medjai"
             }
+          },
+          {
+            "id": "67f0c0059e202189",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16153447a38046e0",
+  "active": "67f0c0059e202189",
   "lastOpenFiles": [
-    "TTRPG/session notes/20250725.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+    "TTRPG/session notes/20250725.md",
     "TTRPG/session notes/20250724.md",
     "TTRPG/session notes/20250723.md",
     "TTRPG/session notes/20250720.md",
