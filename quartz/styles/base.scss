@@ -13,8 +13,7 @@ html {
 
 body {
   margin: 0;
-  box-sizing: border-box;
-  background-color: var(--light);
+  box-sizing: border-box;  background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
 }
@@ -285,6 +284,9 @@ a {
 
     & .center > article {
       grid-area: grid-center;
+      hyphens: none;
+      -webkit-hyphens: none;
+      -moz-hyphens: none;
     }
 
     & footer {

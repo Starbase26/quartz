@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f762b0c4ca6c6af",
+        "id": "8d94ce3590a8d018",
         "type": "tabs",
         "children": [
           {
-            "id": "a2901e43d157e259",
+            "id": "5091214ec297cada",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,23 +180,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2901e43d157e259",
+  "active": "5091214ec297cada",
   "lastOpenFiles": [
     "TTRPG/session notes/20250724a.md",
-    "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
-    "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
     "TTRPG/session notes/20250724.md",
-    "ScratchPad/npc-template-design.md",
-    "TTRPG/session notes/20250720.md",
-    "20250720.md",
     "TTRPG/session notes/20250723.md",
+    "TTRPG/session notes/20250720.md",
     "TTRPG/session notes/20250718.md",
     "TTRPG/session notes/20250716.md",
     "TTRPG/session notes/20250502.md",
+    "templates/roleplay-player-note.md",
+    "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+    "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
+    "ScratchPad/npc-template-design.md",
+    "20250720.md",
     "index.md",
     "TTRPG/characters/My Characters/index.md",
     "ScratchPad/narrative-structures.md",
-    "templates/roleplay-player-note.md",
     "templates/chapter.md",
     "templates/index.md",
     "ScratchPad/warhammer-fantasy-roleplay-books-checklist.md",
