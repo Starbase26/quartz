@@ -13,9 +13,9 @@ linter-yaml-title-alias: "Kevin's Vault"
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "Note", file.mtime AS "Last Modified" WHERE contains(file.tags, "#todo") SORT file.mtime ASC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link AS "Note", file.mtime AS "Last Modified" WHERE contains(file.tags, "#todo") SORT file.mtime ASC -->
 
-| Note                                                                                       | Last Modified    |
-| ------------------------------------------------------------------------------------------ | ---------------- |
-| [[Abe Shun'ya (Sakai)]] | 2025-07-20 04:21 |
+| Note                                                                                       | Last Modified                |
+| ------------------------------------------------------------------------------------------ | ---------------------------- |
+| [[Abe Shun'ya (Sakai)]] | YYYY-07-20 jul 2025 04:21:35 |
 <!-- SerializedQuery END -->
 
 ---
@@ -28,13 +28,13 @@ linter-yaml-title-alias: "Kevin's Vault"
 | note                                                                                                          | type      | dir                                             |
 | ------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
 | [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
-| [[20250724a]]                                                               | session   | TTRPG/session notes                             |
+| [[20250725]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250724]]                                                                 | session   | TTRPG/session notes                             |
-| [[npc-template-design]]                                                    | \-        | ScratchPad                                      |
-| [[20250716]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250720]]                                                                 | session   | TTRPG/session notes                             |
-| [[20250723]]                                                                 | session   | TTRPG/session notes                             |
-| [[narrative-structures]]                                                  | \-        | ScratchPad                                      |
-| [[20250502]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250718]]                                                                 | session   | TTRPG/session notes                             |
+| [[20250716]]                                                                 | session   | TTRPG/session notes                             |
+| [[20250502]]                                                                 | session   | TTRPG/session notes                             |
+| [[20250723]]                                                                 | session   | TTRPG/session notes                             |
+| [[roleplay-player-note]]                                                   | \-        | templates                                       |
+| [[npc-template-design]]                                                    | \-        | ScratchPad                                      |
 <!-- SerializedQuery END -->
