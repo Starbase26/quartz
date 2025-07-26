@@ -5,14 +5,17 @@ date: 2025-07-17
 tags:
   - "overview/roleplay/characters"
 created: 2025-07-17 18:47:44
-modified: 2025-07-26 19:31:08
+modified: 2025-07-26 19:34:18
 ---
 
 # My Characters
 
-```
-<!-- QueryTo Serialize: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(character-name, "Saalim abu Razin") AND type="session" SORT session-date DESC -->
-```
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link As "Character" FROM "" WHERE player="Kevin Schaaps" AND type = "character" SORT modified DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link As "Character" FROM "" WHERE player="Kevin Schaaps" AND type = "character" SORT modified DESC -->
 
-
-<!-- QueryToSerialize: TABLE WITHOUT ID character-name FROM "" WHERE player="Kevin Schaaps" AND type = “character” sort modified DESC -->
+| Character                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------- |
+| [[Saalim Abu Razin Al Medjai]]     |
+| [[Abe Shun'ya (Sakai)]]                        |
+| [[Jabari Adewale al-Masari]] |
+<!-- SerializedQuery END -->
