@@ -1,6 +1,6 @@
 ---
 created: 25-06-2025 17:35:17
-modified: 26-07-2025 01:52:29
+modified: 26-07-2025 01:56:32
 tags:
   - roleplay/character/pc
 type: character
@@ -18,8 +18,6 @@ status: playable
 ## Known Associates
 
 [[Saalim's known associates]]
-
-
 
 ## Session log
 
