@@ -1,6 +1,6 @@
 ---
 created: 2025-06-25 17:35:17
-modified: 2025-07-27 16:02:50
+modified: 2025-07-27 18:16:17
 tags:
   - roleplay/character/pc
 type: character
@@ -24,3 +24,12 @@ status: playable
 >[!Todo]-
 >![[Saalim's  to do lijstje#Takenlijst]]
 >[[Saalim's  to do lijstje#Lijst van notes met taken]]
+
+## Character sheet
+
+### Abilities
+
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |
