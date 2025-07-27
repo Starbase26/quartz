@@ -58,7 +58,7 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-stacked-header-width": 30,
-  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-safari-tab-toggle",
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle",
   "anuppuccin-theme-settings@@anp-alt-tab-custom-height": 40,
   "anuppuccin-theme-settings@@anp-disable-newtab-align": true,
   "anuppuccin-theme-settings@@anp-depth-tab-opacity": 0.6,
@@ -68,7 +68,7 @@
   "anuppuccin-theme-settings@@anp-safari-tab-animated": true,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-card-radius": 8,
-  "anuppuccin-theme-settings@@anp-card-layout-padding": 1,
+  "anuppuccin-theme-settings@@anp-card-layout-padding": 2,
   "anuppuccin-theme-settings@@anp-card-shadows": true,
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
@@ -77,5 +77,11 @@
   "anuppuccin-theme-settings@@anp-editor-font-lp": "CaskaydiaCove NF Regular",
   "anuppuccin-theme-settings@@anp-editor-font-rv": "CaskaydiaCove NF Regular",
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
-  "anuppuccin-theme-settings@@anp-hide-external-link-icon": false
+  "anuppuccin-theme-settings@@anp-hide-external-link-icon": false,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-bg-fix": false,
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false
 }
