@@ -1,6 +1,6 @@
 ---
 created: 2025-07-27 15:10:24
-modified: 2025-07-27 15:10:59
+modified: 2025-07-27 15:15:50
 ---
 
 # Saalim's session logs
@@ -9,6 +9,18 @@ modified: 2025-07-27 15:10:59
 
 ## Adventure logs
 
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(lower(character-name), "saalim") AND lower(type)="session" AND lower(campaign)="social" SORT session-date DESC LIMIT 5 
+
 ## Socialing
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(character-name, "Saalim") AND type="session" AND  SORT session-date DESC
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(lower(character-name), "saalim") AND lower(type)="session" AND lower(campaign)="social" SORT session-date DESC LIMIT 5 -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(lower(character-name), "saalim") AND lower(type)="session" AND lower(campaign)="social" SORT session-date DESC LIMIT 5 -->
+
+| Sessiedatum                                   | summary                                                                                                                                                                                                                                                |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[20250726]] | Tour van Siwa en met Nemes geklets over de stad en zijn broer. Daarnaast is de Childrens’ Wing in het hospital afgerond en is kleurrijk en mooi!                                                                                                       |
+| [[20250725]] | Saalim bevrijdt een Egyptische kolonel en installeert een groep van 18 streetrats in Siwa onder leiding van Khenru als informanten. Ondertussen arriveert een barmaid uit Abad in het paleis om haar brouwkunsten te verkennen.                        |
+| [[20250724]] | Saalim en Faisal gaan naar de stad Abad om Col. Menes uit de problemen te halen, om er achter te komen dat zijn broer Ahron niet zo nobel is als Menes.  Ook recruteerd Saalim wat straatkinderen om in Siwa een oogje in het zeil te houden voor hem. |
+| [[20250723]] | Twee jongens ruziën om een meisje; zij vindt het stiekem leuk en gooit water over hen. Saalim straft hen met 7 weken kamelen verzorgen, maar dat houdt maar één dag stand.                                                                             |
+| [[20250716]] | Omar Mawazi's wife, the Banshee, Destruction of Al Qadir                                                                                                                                                                                               |
+<!-- SerializedQuery END -->
