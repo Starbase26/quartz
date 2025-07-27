@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/characters/My Characters/Saalim abu Razin/Saalims logs.md",
-                "mode": "preview",
+                "file": "TTRPG/session notes/20250726.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saalims logs"
+              "title": "20250726"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "67f0c0059e202189",
   "lastOpenFiles": [
-    "TTRPG/session notes/20250726.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalims logs.md",
+    "TTRPG/session notes/20250726.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
     "publish.css",
     "index.md",
