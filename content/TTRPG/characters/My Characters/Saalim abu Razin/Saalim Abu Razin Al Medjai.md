@@ -1,6 +1,6 @@
 ---
 created: 2025-06-25 17:35:17
-modified: 2025-07-27 18:25:13
+modified: 2025-07-27 18:29:49
 tags:
   - roleplay/character/pc
 type: character
@@ -37,16 +37,21 @@ status: playable
 
 ### Skills
 
-| **Skill**               | **Lvl** | **Skill**                 | **Lvl** | **Skill**                   | **Lvl** |
-| :---------------------- | :-----: | ------------------------- | :-----: | --------------------------- | :-----: |
-| Animal handling         |    4    | Read & Write              |    3    | Perception                  |    5    |
-| Animal training (Camel) |    5    | Accounting (Tribal)       |    3    | Combat Awareness            |    3    |
-| Riding (Camel)          |    4    | Navigation (Desert)       |    3    | Intimidation                |    1    |
-| First Aid               |    4    | Weather Watching (Desert) |    3    | Evade                       |    5    |
-| Surgery                 |    1    | Tracking                  |    2    | Sword: Scimitar (main hand) |   10    |
-| Jumping                 |    4    | Memorisation              |    3    | Sword: Scimitar (off hand)  |   10    |
-| Rope use                |    3    |                           |         | Dagger                      |    3    |
-| Survival (Desert)       |    3    |                           |         | Throw dagger                |    3    |
-| Swim                    |    2    | No Magic Zone             |    3    | Unarmed combat              |    4    |
-| Fishing                 |    1    |                           |         | Leadership                  |    4    |
-| Acrobatics              |         |                           |         |                             |         |
+| **Skill**                  | **Lvl** | **Skill**                 | **Lvl** | **Skill**                   | **Lvl** |
+| :------------------------- | :-----: | ------------------------- | :-----: | --------------------------- | :-----: |
+| Animal handling            |    4    | Read & Write              |    3    | Perception                  |    5    |
+| Animal training (Camel)    |    5    | Accounting (Tribal)       |    3    | Combat Awareness            |    3    |
+| Riding (Camel)             |    4    | Navigation (Desert)       |    3    | Intimidation                |    1    |
+| Riding (Horse)             |    3    | Weather Watching (Desert) |    3    | Evade                       |    5    |
+| Riding: (Chariot)          |    3    | Tracking                  |    2    | Sword: Scimitar (main hand) |   10    |
+| First Aid                  |    4    | Memorisation              |    3    | Sword: Scimitar (off hand)  |   10    |
+| Surgery                    |    1    |                           |         | Dagger                      |    3    |
+| Jumping                    |    4    |                           |         | Throw dagger                |    3    |
+| Rope use                   |    3    | No Magic Zone             |    3    | Unarmed combat              |    4    |
+| Survival (Desert)          |    3    |                           |         | Leadership                  |    4    |
+| Swim                       |    2    | Making soap bubbles       |    0    | Diplomacy                   |    3    |
+| Fishing                    |    1    |                           |         | Charm                       |    4    |
+| Acrobatics                 |    2    |                           |         |                             |         |
+| Hunting                    |    3    |                           |         |                             |         |
+| Estimate Value (jewellery) |         |                           |         |                             |         |
+|                            |         |                           |         |                             |         |
