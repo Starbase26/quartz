@@ -16,6 +16,7 @@ linter-yaml-title-alias: "Kevin's Vault"
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
 | [[Abe Shun'ya (Sakai)]] | YYYY-07-20 jul 2025 04:21:35 |
+| [[20250726]]                                              | YYYY-07-26 jul 2025 22:20:05 |
 <!-- SerializedQuery END -->
 
 ---
@@ -28,6 +29,7 @@ linter-yaml-title-alias: "Kevin's Vault"
 | note                                                                                                          | type      | dir                                             |
 | ------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
 | [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
+| [[20250726]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250725]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250724]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250720]]                                                                 | session   | TTRPG/session notes                             |
@@ -36,5 +38,4 @@ linter-yaml-title-alias: "Kevin's Vault"
 | [[20250502]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250723]]                                                                 | session   | TTRPG/session notes                             |
 | [[roleplay-player-note]]                                                   | \-        | templates                                       |
-| [[npc-template-design]]                                                    | \-        | ScratchPad                                      |
 <!-- SerializedQuery END -->

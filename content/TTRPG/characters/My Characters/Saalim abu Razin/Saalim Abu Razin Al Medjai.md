@@ -1,6 +1,6 @@
 ---
 created: 2025-06-25 17:35:17
-modified: 2025-07-26 19:02:21
+modified: 2025-07-26 22:21:21
 tags:
   - roleplay/character/pc
 type: character
@@ -21,11 +21,12 @@ status: playable
 
 ## Session log
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(character-name, "Saalim abu Razin") AND type="session" SORT session-date DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(character-name, "Saalim abu Razin") AND type="session" SORT session-date DESC -->
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(character-name, "Saalim") AND type="session" SORT session-date DESC -->
+<!-- SerializedQuery: TABLE WITHOUT ID file.link  AS "Sessiedatum", summary FROM "TTRPG" WHERE contains(character-name, "Saalim") AND type="session" SORT session-date DESC -->
 
 | Sessiedatum                                   | summary                                                                                                                                                                                                                                                |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[20250726]] | Tour van Siwa en met Nemes geklets over de stad en zijn broer. Daarnaast is de Childrens’ Wing in het hospital afgerond en is kleurrijk en mooi!                                                                                                       |
 | [[20250725]] | Saalim bevrijdt een Egyptische kolonel en installeert een groep van 18 streetrats in Siwa onder leiding van Khenru als informanten. Ondertussen arriveert een barmaid uit Abad in het paleis om haar brouwkunsten te verkennen.                        |
 | [[20250724]] | Saalim en Faisal gaan naar de stad Abad om Col. Menes uit de problemen te halen, om er achter te komen dat zijn broer Ahron niet zo nobel is als Menes.  Ook recruteerd Saalim wat straatkinderen om in Siwa een oogje in het zeil te houden voor hem. |
 | [[20250723]] | Twee jongens ruziën om een meisje; zij vindt het stiekem leuk en gooit water over hen. Saalim straft hen met 7 weken kamelen verzorgen, maar dat houdt maar één dag stand.                                                                             |
