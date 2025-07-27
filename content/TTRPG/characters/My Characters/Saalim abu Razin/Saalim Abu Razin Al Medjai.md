@@ -1,6 +1,6 @@
 ---
 created: 2025-06-25 17:35:17
-modified: 2025-07-27 15:56:20
+modified: 2025-07-27 15:58:09
 tags:
   - roleplay/character/pc
 type: character
@@ -21,6 +21,5 @@ status: playable
 	- [[Saalim's known associates|people he knows]]
 	- [[Saalim's character sheet|Character sheet]]
 
-## Takenlijstje
-
-![[Saalim's  to do lijstje#Takenlijst]]
+>[!Todo]-
+>![[Saalim's  to do lijstje#Takenlijst]]
