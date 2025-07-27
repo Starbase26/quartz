@@ -1,7 +1,7 @@
 {
   "theme": "moonstone",
   "cssTheme": "AnuPpuccin",
-  "monospaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "ITC Cheltenham Std",
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
   "accentColor": "#93cefb"
 }
