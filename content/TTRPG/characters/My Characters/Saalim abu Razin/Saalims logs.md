@@ -1,6 +1,6 @@
 ---
 created: 2025-07-27 15:10:24
-modified: 2025-07-27 15:21:13
+modified: 2025-07-27 15:26:12
 tags:
   - "todo/player"
 ---
@@ -9,8 +9,9 @@ tags:
 
 ## Campaign logs
 
-> #todo/player 
-> Maak een overzicht van lopende en beëindigde campaigns
+>[!Todo]-
+> #todo/player
+> - Maak een overzicht van lopende en beëindigde campaigns
 
 ## Adventure logs
 
