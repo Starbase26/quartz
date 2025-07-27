@@ -1,6 +1,6 @@
 ---
 created: 2025-06-25 17:35:17
-modified: 2025-07-27 15:49:43
+modified: 2025-07-27 15:56:20
 tags:
   - roleplay/character/pc
 type: character
@@ -17,25 +17,10 @@ status: playable
 
 **Quick Links**
 	- [[Saalims logs|Logs]]
+	- [[Saalim's  to do lijstje|ToDo]]
 	- [[Saalim's known associates|people he knows]]
 	- [[Saalim's character sheet|Character sheet]]
-	- 
 
-## Saalim's to do lijstje:
+## Takenlijstje
 
-```dataview
-TASK
-FROM "TTRPG"
-WHERE contains(lower(character-name), "saalim")
-  AND contains(lower(file.tags), "#todo/character")
-  AND !completed
-SORT modified DESC
-```
-
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "Locatie" FROM "TTRPG" WHERE contains(lower(file.tags), "#todo/character") SORT modified DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link as "Locatie" FROM "TTRPG" WHERE contains(lower(file.tags), "#todo/character") SORT modified DESC -->
-
-| Locatie                                       |
-| --------------------------------------------- |
-| [[20250726]] |
-<!-- SerializedQuery END -->
+![[Saalim's  to do lijstje#Takenlijst]]
