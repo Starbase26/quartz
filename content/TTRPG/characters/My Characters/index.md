@@ -3,9 +3,10 @@ aliases:
   - Kevins Characters
 date: 2025-07-17
 tags:
-  - "overview/roleplay/characters"
+  - overview/roleplay/characters
 created: 2025-07-17 18:47:44
-modified: 2025-07-27 15:03:04
+modified: 2025-07-27 15:29:00
+title: My Characters list
 ---
 
 # My Characters

@@ -1,6 +1,6 @@
 ---
 created: 2025-06-25 17:35:17
-modified: 2025-07-27 15:22:36
+modified: 2025-07-27 15:30:47
 tags:
   - roleplay/character/pc
 type: character
@@ -20,3 +20,7 @@ status: playable
 	- [[Saalim's known associates|people he knows]]
 	- [[Saalim's character sheet|Character sheet]]
 	- 
+
+## Saalim's to do lijstje:
+
+<!-- QueryToSerialize: TABLE WITHOUT ID file.link as "Locatie" FROM "TTRPG" WHERE contains(lower(character-name), "saalim") AND contains(lower(tags), "#todo/character") SORT modified DESC  -->

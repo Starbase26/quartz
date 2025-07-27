@@ -6,14 +6,15 @@ character-name:
 date: 2025-06-19
 tags:
   - roleplay/character/pc
-  - "todo"
+  - "todo/player"
 description: Blood magus assassin who wants to return the Tremere to its former glory.
-modified: 20-07-2025 04:21:33
+modified: 2025-07-27 15:27:42
 status: concept
-created: 17-07-2025 19:58:21
+created: 2025-07-17 19:58:21
 ---
 
 > [!Todo]-
+> #todo/player 
 > - [ ] ==Make a short timeline what happened to my character and when!== (table format with columns: "Date/Age", "Event")
 > - [ ] Bepalen: 
 > 	- [ ] Waar woont Sakai nu?
