@@ -1,6 +1,6 @@
 ---
 created: 2025-06-25 17:35:17
-modified: 2025-07-26 22:21:21
+modified: 2025-07-27 15:10:20
 tags:
   - roleplay/character/pc
 type: character
@@ -15,9 +15,9 @@ status: playable
 
 # Saalim abu Razin Al Medjai
 
-## Known Associates
-
-[[Saalim's known associates]]
+**Quick Links**
+	- [[Saalims logs|Logs]]
+	- [[Saalim's known associates|people he knows]]
 
 ## Session log
 
