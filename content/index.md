@@ -17,7 +17,7 @@ title: Starbase 26 Vault
 
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
-| [[Saalims logs]]          | YYYY-07-27 jul 2025 15:26:14 |
+| [[Saalims logs]]          | YYYY-07-28 jul 2025 01:43:08 |
 | [[Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
 <!-- SerializedQuery END -->
 
@@ -30,14 +30,14 @@ title: Starbase 26 Vault
 
 | note                                                                                                          | type      | dir                                             |
 | ------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
-| [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
+| [[Saalims logs]]                             | \-        | TTRPG/characters/My Characters/Saalim abu Razin |
 | [[Saalim's  to do lijstje]]       | \-        | TTRPG/characters/My Characters/Saalim abu Razin |
+| [[20250727]]                                                                 | session   | TTRPG/session notes                             |
+| [[20250725]]                                                                 | session   | TTRPG/session notes                             |
+| [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
 | [[20250726]]                                                                 | session   | TTRPG/session notes                             |
 | [[Abe Shun'ya (Sakai)]]                    | character | TTRPG/characters/My Characters/Abe Shun'ya      |
-| [[Saalims logs]]                             | \-        | TTRPG/characters/My Characters/Saalim abu Razin |
 | [[20250502]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250718]]                                                                 | session   | TTRPG/session notes                             |
-| [[20250725]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250724]]                                                                 | session   | TTRPG/session notes                             |
-| [[20250720]]                                                                 | session   | TTRPG/session notes                             |
 <!-- SerializedQuery END -->
