@@ -1,6 +1,6 @@
 ---
 created: 2025-06-25 17:35:17
-modified: 2025-07-27 18:29:49
+modified: 2025-07-28 01:56:13
 tags:
   - roleplay/character/pc
 type: character
@@ -29,6 +29,13 @@ status: playable
 
 *download [[saalim's character sheet.pdf]]*
 
+> ### Abilities
+> 
+| STR | DEX | CON | INT | WILL | APP |
+| :-: | :-: | :-: | :-: | :--: | :-: |
+|  3  |  3  |  4  |  1  |  3   |  4  |
+
+### 
 ### Abilities
 
 | STR | DEX | CON | INT | WILL | APP |
