@@ -1,6 +1,6 @@
 ---
 created: 2025-07-29 18:54:23
-modified: 2025-07-29 18:54:49
+modified: 2025-07-29 19:16:08
 ---
 
 # DNS Lijst
@@ -36,3 +36,15 @@ modified: 2025-07-29 18:54:49
 | [ ]     | vulcan.starbase26.nl       | Host (A) | 10.26.10.23           | [ ]    |
 | [ ]     | webserver.home.sb26.nl     | Host (A) | 10.26.10.132          | [ ]    |
 | [ ]     | www.starbase26.nl          | Host (A) | 10.26.11.5            | [ ]    |
+
+## status.home.starbase26.nl
+
+Uptime Kuma
+MAC:
+BC:24:11:2E:C6:88
+
+## glance.home.sb26.nl
+
+GlanceAPP
+MAC:
+BC:24:11:F9:D9:C4
