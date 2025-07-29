@@ -37,14 +37,14 @@ modified: 2025-07-29 19:16:08
 | [ ]     | webserver.home.sb26.nl     | Host (A) | 10.26.10.132          | [ ]    |
 | [ ]     | www.starbase26.nl          | Host (A) | 10.26.11.5            | [ ]    |
 
-## status.home.starbase26.nl
+## 119 - status.home.starbase26.nl
 
 Uptime Kuma
 MAC:
 BC:24:11:2E:C6:88
 
-## glance.home.sb26.nl
+## 120 - glance.home.sb26.nl
 
-GlanceAPP
+GlanceApp
 MAC:
 BC:24:11:F9:D9:C4
