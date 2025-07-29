@@ -17,8 +17,8 @@ title: Starbase 26 Vault
 
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
-| [[Saalims logs]]          | YYYY-07-28 jul 2025 01:43:08 |
 | [[Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
+| [[Saalims logs]]          | YYYY-07-29 jul 2025 16:51:53 |
 <!-- SerializedQuery END -->
 
 ---
@@ -32,12 +32,12 @@ title: Starbase 26 Vault
 | ------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
 | [[Saalims logs]]                             | \-        | TTRPG/characters/My Characters/Saalim abu Razin |
 | [[Saalim's  to do lijstje]]       | \-        | TTRPG/characters/My Characters/Saalim abu Razin |
-| [[20250727]]                                                                 | session   | TTRPG/session notes                             |
-| [[20250725]]                                                                 | session   | TTRPG/session notes                             |
+| [[TTRPG/session notes/20250728.md|20250728]]                                                                 | session   | TTRPG/session notes                             |
 | [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
+| [[20250727]]                                                                 | session   | TTRPG/session notes                             |
+| [[20250728.md|20250728]]                                                                                     | \-        |                                                 |
+| [[20250725]]                                                                 | session   | TTRPG/session notes                             |
 | [[20250726]]                                                                 | session   | TTRPG/session notes                             |
 | [[Abe Shun'ya (Sakai)]]                    | character | TTRPG/characters/My Characters/Abe Shun'ya      |
 | [[20250502]]                                                                 | session   | TTRPG/session notes                             |
-| [[20250718]]                                                                 | session   | TTRPG/session notes                             |
-| [[20250724]]                                                                 | session   | TTRPG/session notes                             |
 <!-- SerializedQuery END -->
