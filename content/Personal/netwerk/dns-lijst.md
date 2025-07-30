@@ -1,6 +1,6 @@
 ---
 created: 2025-07-29 18:54:23
-modified: 2025-07-30 01:36:16
+modified: 2025-07-30 02:35:44
 ---
 
 # DNS Lijst
@@ -36,3 +36,7 @@ modified: 2025-07-30 01:36:16
 | [ ]     | vulcan.starbase26.nl       | Host (A) | 10.26.10.23           | [ ]    |
 | [ ]     | webserver.home.sb26.nl     | Host (A) | 10.26.10.132          | [ ]    |
 | [ ]     | www.starbase26.nl          | Host (A) | 10.26.11.5            | [ ]    |
+
+
+- [ ] hostname
+      ip-adres
