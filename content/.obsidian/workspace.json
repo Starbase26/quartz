@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/netwerk/Starbase26 Netwerk.md",
+                "file": "Personal/netwerk/netwerk-zones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Starbase26 Netwerk"
+              "title": "netwerk-zones"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "838a79160a6d4682",
   "lastOpenFiles": [
-    "Personal/netwerk/netwerk-zones.md",
     "Personal/netwerk/Starbase26 Netwerk.md",
+    "Personal/netwerk/netwerk-zones.md",
     "Personal/netwerk/netwerk-beleid.md",
     "Personal/netwerk/dns-lijst.md",
     "index.md",
