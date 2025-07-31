@@ -1,6 +1,6 @@
 ---
 created: 2025-07-31 18:04:03
-modified: 2025-07-31 18:28:48
+modified: 2025-07-31 18:41:52
 ---
 
 # Starbase 26 Network Policies
@@ -26,6 +26,7 @@ modified: 2025-07-31 18:28:48
 local.starbase26.nl
 lab.starbase26.nl
 ``` 
+
 
 ### Naming convention
 
