@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/netwerk/netwerk-beleid.md",
+                "file": "Personal/netwerk/Starbase26 Netwerk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "netwerk-beleid"
+              "title": "Starbase26 Netwerk"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "838a79160a6d4682",
   "lastOpenFiles": [
-    "Personal/netwerk/dns-lijst.md",
+    "Personal/netwerk/netwerk-zones.md",
+    "Personal/netwerk/Starbase26 Netwerk.md",
     "Personal/netwerk/netwerk-beleid.md",
+    "Personal/netwerk/dns-lijst.md",
     "index.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalims logs.md",
     "TTRPG/session notes/20250728.md",
@@ -208,8 +210,6 @@
     "ScratchPad/npc-template-design.md",
     "20250720.md",
     "ScratchPad/narrative-structures.md",
-    "templates/chapter.md",
-    "templates/index.md",
     "Personal/BluRays",
     "Personal/Clippings",
     "Personal/Journal",
