@@ -1,6 +1,6 @@
 ---
 created: 2025-07-31 18:04:03
-modified: 2025-07-31 18:23:37
+modified: 2025-07-31 18:28:48
 ---
 
 # Starbase 26 Network Policies
@@ -21,6 +21,11 @@ modified: 2025-07-31 18:23:37
 - [ ] `*.starbase26.nl` ->
       Alle servers die ook van buiten toegankelijk moeten zijn 
 	- **?** DMZ
+
+```
+local.starbase26.nl
+lab.starbase26.nl
+``` 
 
 ### Naming convention
 
