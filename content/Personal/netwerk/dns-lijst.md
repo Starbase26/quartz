@@ -1,15 +1,18 @@
 ---
 created: 2025-07-29 18:54:23
-modified: 2025-07-30 02:38:18
+modified: 2025-07-31 15:22:55
 ---
 
 # DNS Lijst
 
+Checkmark = DELETE
+
+
 - [ ] \*.bastion.starbase26.nl  
       10.26.10.101  
-- [ ] adguard.home.sb26.nl  
+- [x] adguard.home.sb26.nl  
       10.26.11.1  
-- [ ] audiobooks.home.sb26.nl  
+- [x] audiobooks.home.sb26.nl  
       10.26.11.5  
 - [ ] bastion.starbase26.nl  
       10.26.10.101  
@@ -19,7 +22,7 @@ modified: 2025-07-30 02:38:18
       10.26.11.5  
 - [ ] dashboard.home.sb26.nl  
       10.26.11.5  
-- [ ] delugo.home.sb26.nl  
+- [x] delugo.home.sb26.nl  
       192.168.42.64  
 - [ ] devbox.starbase26.nl  
       10.26.11.5  
