@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/netwerk/titels-voor-homelab-docs.md",
+                "file": "ScratchPad/ldap-tutorials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "titels-voor-homelab-docs"
+              "title": "ldap-tutorials"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "838a79160a6d4682",
   "lastOpenFiles": [
-    "TTRPG/session notes/20250718.md",
     "Personal/netwerk/titels-voor-homelab-docs.md",
+    "ScratchPad/ldap-tutorials.md",
+    "TTRPG/session notes/20250718.md",
     "TTRPG/session notes/20250723.md",
     "TTRPG/session notes/20250724.md",
     "TTRPG/session notes/20250725.md",
@@ -210,7 +211,6 @@
     "TTRPG/session notes/20250716.md",
     "templates/roleplay-player-note.md",
     "ScratchPad/npc-template-design.md",
-    "20250720.md",
     "Personal/BluRays",
     "Personal/Clippings",
     "Personal/Journal",
