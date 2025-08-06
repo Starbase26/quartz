@@ -60,9 +60,3 @@ Diepgaande uitleg van basisbegrippen zoals entries, DNs, filters en operaties.
 | **2. Bekijk visuele uitleg** | Gebruik de YouTube-video voor structuur en terminologie. |
 | **3. Probeer hands-on installatie** | Volg een installatiegids zoals van Ubuntu of ITGix. |
 | **4. Gebruik een GUI** | Installeer phpLDAPadmin of FreeIPA om beheer te vereenvoudigen. |
-
----
-
-## 💡 Bonus: LDAP via Docker?
-
-Wil je een kant-en-klare Docker-setup (bijv. OpenLDAP + phpLDAPadmin)? Laat het me weten en ik geef je een werkende `docker-compose.yml` die je direct kunt gebruiken.

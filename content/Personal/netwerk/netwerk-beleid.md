@@ -1,12 +1,13 @@
 ---
 created: 2025-07-31 18:04:03
-modified: 2025-07-31 18:41:52
+modified: 2025-08-06 19:19:05
 ---
 
 # Starbase 26 Network Policies
 
 #todo/netwerk
 - [ ] Verander FQDN van servers
+	- [ ] Migreer hostnames naar \*.ops.starbase26.nl
 - [x] Voeg `*.lab.starbase26.nl` toe aan DNS configuratie
 - [ ] Update Proxy List voor huidige servers
 - [ ] Update DNS lijst voor huidige servers
@@ -16,17 +17,15 @@ modified: 2025-07-31 18:41:52
 
 ## Homelab
 
-- [ ] `*.lab.starbase26.nl` -> 
-      Alle servers in HomeLab
+- [ ] `*.ops.starbase26.nl` -> 
+      Alle VMs/LXC's/boxes in Starbase26
 - [ ] `*.starbase26.nl` ->
-      Alle servers die ook van buiten toegankelijk moeten zijn 
-	- **?** DMZ
+      DMZ
 
 ```
-local.starbase26.nl
-lab.starbase26.nl
+*.starbase26.nl
+*.ops.starbase26.nl
 ``` 
-
 
 ### Naming convention
 
