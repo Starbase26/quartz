@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/netwerk/netwerk-beleid.md",
+                "file": "ScratchPad/ipv6-tutorials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "netwerk-beleid"
+              "title": "ipv6-tutorials"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "838a79160a6d4682",
   "lastOpenFiles": [
+    "Personal/netwerk/netwerk-beleid.md",
+    "ScratchPad/ipv6-tutorials.md",
     "TTRPG/characters/My Characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md",
     "ScratchPad/ldap-tutorials.md",
-    "Personal/netwerk/netwerk-beleid.md",
     "Personal/netwerk/titels-voor-homelab-docs.md",
     "Personal/netwerk/Starbase26 Netwerk.md",
     "TTRPG/session notes/20250718.md",
@@ -210,7 +211,6 @@
     "TTRPG/characters/My Characters/Shariff/Shariff Amr'Duath.md",
     "TTRPG/session notes/20250720.md",
     "TTRPG/session notes/20250716.md",
-    "templates/roleplay-player-note.md",
     "Personal/BluRays",
     "Personal/Clippings",
     "Personal/Journal",

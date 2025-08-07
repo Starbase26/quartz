@@ -8,7 +8,6 @@ modified: 2025-08-06 19:19:05
 #todo/netwerk
 - [ ] Verander FQDN van servers
 	- [ ] Migreer hostnames naar \*.ops.starbase26.nl
-- [x] Voeg `*.lab.starbase26.nl` toe aan DNS configuratie
 - [ ] Update Proxy List voor huidige servers
 - [ ] Update DNS lijst voor huidige servers
 
@@ -18,7 +17,7 @@ modified: 2025-08-06 19:19:05
 ## Homelab
 
 - [ ] `*.ops.starbase26.nl` -> 
-      Alle VMs/LXC's/boxes in Starbase26
+      Alle VMs/LXC's/bare-metal hosts in Starbase26
 - [ ] `*.starbase26.nl` ->
       DMZ
 
