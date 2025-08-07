@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/characters/My Characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md",
+                "file": "TTRPG/characters/My Characters/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jabari Adewale al-Masari"
+              "title": "index"
             }
           }
         ]
@@ -182,15 +182,16 @@
   },
   "active": "838a79160a6d4682",
   "lastOpenFiles": [
+    "ScratchPad/Untitled.md",
+    "TTRPG/characters/My Characters/index.md",
+    "TTRPG/characters/My Characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md",
     "Personal/netwerk/ipv6/ipv6-explained.md",
     "ScratchPad/index.md",
     "Personal/netwerk/ipv6/Untitled.md",
-    "ScratchPad/Untitled.md",
     "ScratchPad/ipv6-tutorials.md",
     "Personal/netwerk/ipv6",
     "Personal/netwerk/Untitled.md",
     "Personal/netwerk/netwerk-beleid.md",
-    "TTRPG/characters/My Characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md",
     "ScratchPad/ldap-tutorials.md",
     "Personal/netwerk/titels-voor-homelab-docs.md",
     "Personal/netwerk/Starbase26 Netwerk.md",
@@ -211,7 +212,6 @@
     "20250728.md",
     "Personal/netwerk",
     "publish.css",
-    "TTRPG/characters/My Characters/Abe Shun'ya/Abe Shun'ya (Sakai).md",
     "Personal/BluRays",
     "Personal/Clippings",
     "Personal/Journal",

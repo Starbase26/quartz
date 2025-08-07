@@ -4,13 +4,19 @@ player: Kevin Schaaps
 character-name: Jabari Adewale al-Masari
 world: 
 date: 2025-06-25
-modified: 2025-08-07 15:49:23
+modified: 2025-08-08 01:48:48
 tags:
   - roleplay/character/pc
 description: A magic cartographer who specialises in ley line tracking
 status: concept
 created: 2025-06-18 17:46:49
 ---
+
+# NIEUW CHAR OPZETTEN
+
+Nipponese warrior:
+- Bamboo will solve all problems, you can eat it, build with it, float it. Everything.
+- 
 
 # Jabari Adewale al-Masari
 

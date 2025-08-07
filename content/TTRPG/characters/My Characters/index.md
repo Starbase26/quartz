@@ -5,7 +5,7 @@ date: 2025-07-17
 tags:
   - overview/roleplay/characters
 created: 2025-07-17 18:47:44
-modified: 2025-07-27 15:29:00
+modified: 2025-08-08 01:49:39
 title: My Characters list
 ---
 
@@ -16,7 +16,7 @@ title: My Characters list
 
 | Character                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------- |
+| [[Jabari Adewale al-Masari]] |
 | [[Saalim Abu Razin Al Medjai]]     |
 | [[Abe Shun'ya (Sakai)]]                        |
-| [[Jabari Adewale al-Masari]] |
 <!-- SerializedQuery END -->
