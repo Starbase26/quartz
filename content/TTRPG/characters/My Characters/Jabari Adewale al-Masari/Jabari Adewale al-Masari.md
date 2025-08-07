@@ -4,11 +4,12 @@ player: Kevin Schaaps
 character-name: Jabari Adewale al-Masari
 world: 
 date: 2025-06-25
-modified: 2025-07-18T02:10:00
+modified: 2025-08-07 15:49:23
 tags:
   - roleplay/character/pc
 description: A magic cartographer who specialises in ley line tracking
 status: concept
+created: 2025-06-18 17:46:49
 ---
 
 # Jabari Adewale al-Masari
@@ -20,6 +21,6 @@ status: concept
 
 ## Background
 
-Jabari is a descendant of a long line of magi - they would be considered *purebloods*, His family has been mapping and keeping ley line informatino safe, for generations. Though most lore is available, some might be too sensitive for public consumption. 
+Jabari is a descendant of a long line of magi - they would be considered *purebloods*, His family has been mapping and keeping ley line information safe, for generations. Though most lore is available, some might be too sensitive for public consumption. 
 
-The Family originally was a nomadic tribe, traveling Northern Africa, but the family hasn’t trekked for over a century now. They reside in 
+The family originally was a nomadic tribe, travelling Northern Africa, but the family hasn’t trekked for over a century now. They reside in 
