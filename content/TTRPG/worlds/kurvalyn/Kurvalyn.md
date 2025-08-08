@@ -1,10 +1,15 @@
 ---
 type: world
 created: 2025-08-08 18:53:30
-modified: 2025-08-08 19:05:31
+modified: 2025-08-08 19:09:01
+title: Kurvalyn
+tags:
+  - "#roleplay/genre/epic"
+  - roleplay/genre/grimdark
+  - roleplay/genre/high-fantasy
 ---
 
-# <% tp.file.title %>
+# Kurvalyn
 
 ## TL;DR Summary
 
