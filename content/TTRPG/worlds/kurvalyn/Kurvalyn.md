@@ -18,7 +18,7 @@ description: High-fantasy world with grimdark elements.
 - **Genre**: #roleplay/genre/epic #roleplay/genre/grimdark #roleplay/genre/high-fantasy 
 - **RPG System**: #roleplay/system/homebrew #roleplay/system/agnostic
 
-Kurvalyn is a high fantasy world, where more grimdark elements are beginning to emerge. It is a world with many gods, some even walk the material plane. 
+Kurvalyn is a vast high-fantasy world on the brink of darker times. Gods are many—some still walk among mortals.
 
 ## Geography and Regions
 
