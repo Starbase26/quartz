@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ScratchPad/worldbuilding-ai-compatible.md",
+                "file": "templates/roleplay-new-country.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "worldbuilding-ai-compatible"
+              "title": "roleplay-new-country"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ScratchPad/worldbuilding-ai-compatible.md",
+                "file": "templates/roleplay-new-country.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of worldbuilding-ai-compatible"
+              "title": "Outline of roleplay-new-country"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,8 +182,9 @@
   },
   "active": "838a79160a6d4682",
   "lastOpenFiles": [
-    "TTRPG/characters/My Characters/index.md",
     "ScratchPad/worldbuilding-ai-compatible.md",
+    "templates/roleplay-new-country.md",
+    "TTRPG/characters/My Characters/index.md",
     "TTRPG/characters/My Characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md",
     "Personal/netwerk/ipv6/ipv6-explained.md",
     "ScratchPad/index.md",
@@ -209,7 +210,6 @@
     "TTRPG/session notes/20250728.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim's  to do lijstje.md",
-    "20250728.md",
     "Personal/netwerk",
     "publish.css",
     "Personal/BluRays",

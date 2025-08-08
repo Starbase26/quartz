@@ -1,7 +1,7 @@
 ---
-title: AI Compatible Worldbuilding
+title: AI-compatible worldbuilding
 created: 2025-08-08 18:44:51
-modified: 2025-08-08 18:49:24
+modified: 2025-08-08 18:52:33
 ---
 
 # AI-Compatible Worldbuilding
