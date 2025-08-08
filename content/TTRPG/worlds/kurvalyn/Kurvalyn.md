@@ -1,19 +1,24 @@
 ---
 type: world
 created: 2025-08-08 18:53:30
-modified: 2025-08-08 19:09:01
+modified: 2025-08-08 19:13:20
 title: Kurvalyn
 tags:
-  - "#roleplay/genre/epic"
+  - "roleplay/genre/epic"
   - roleplay/genre/grimdark
   - roleplay/genre/high-fantasy
+description: High-fantasy world with grimdark elements.
 ---
 
 # Kurvalyn
 
 ## TL;DR Summary
 
-%% the TL;DR Version of this world %%
+- **Name**: Kurvalyn
+- **Genre**: #roleplay/genre/epic #roleplay/genre/grimdark #roleplay/genre/high-fantasy 
+- **RPG System**: #roleplay/system/homebrew #roleplay/system/agnostic
+
+Kurvalyn is a high fantasy world, where more grimdark elements are beginning to emerge. It is a world with many gods, some even walk the material plane. 
 
 ## Geography and Regions
 
