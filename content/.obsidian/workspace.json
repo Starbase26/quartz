@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ScratchPad/worldbuilding-ai-compatible.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74db7988a55bf4cf",
+  "active": "838a79160a6d4682",
   "lastOpenFiles": [
     "TTRPG/characters/My Characters/index.md",
     "ScratchPad/worldbuilding-ai-compatible.md",

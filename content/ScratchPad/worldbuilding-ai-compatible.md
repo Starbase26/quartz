@@ -1,7 +1,7 @@
 ---
 title: AI Compatible Worldbuilding
 created: 2025-08-08 18:44:51
-modified: 2025-08-08 18:48:54
+modified: 2025-08-08 18:49:24
 ---
 
 # AI-Compatible Worldbuilding
@@ -267,5 +267,3 @@ Wil je een templatebestand (bv. in Markdown of Word), laat het weten — ik gene
 - **Efficiënt voor AI-analyse**: Heldere kopjes en logische indeling zorgen dat ik snel verbanden kan leggen.
 
 ---
-
-Wil je dat ik alvast help met het invullen van een van deze secties? Bijvoorbeeld het uitwerken van een regio, een magiesysteem, of een factie?
