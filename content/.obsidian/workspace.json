@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/characters/My Characters/index.md",
-                "mode": "source",
+                "file": "ScratchPad/worldbuilding-ai-compatible.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "worldbuilding-ai-compatible"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
+                "file": "ScratchPad/worldbuilding-ai-compatible.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Saalim Abu Razin Al Medjai"
+              "title": "Outline of worldbuilding-ai-compatible"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,10 +180,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "838a79160a6d4682",
+  "active": "74db7988a55bf4cf",
   "lastOpenFiles": [
-    "ScratchPad/Untitled.md",
     "TTRPG/characters/My Characters/index.md",
+    "ScratchPad/worldbuilding-ai-compatible.md",
     "TTRPG/characters/My Characters/Jabari Adewale al-Masari/Jabari Adewale al-Masari.md",
     "Personal/netwerk/ipv6/ipv6-explained.md",
     "ScratchPad/index.md",
