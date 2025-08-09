@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
-                "mode": "preview",
+                "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drovath Vhaelythar"
+              "title": "charsheet-drovath-vhaelythar"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
+                "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drovath Vhaelythar"
+              "title": "Outline of charsheet-drovath-vhaelythar"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,11 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "838a79160a6d4682",
+  "active": "d5ec61085737eb87",
   "lastOpenFiles": [
+    "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
+    "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
     "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.pdf",
     "TTRPG/rpg-todo-list.md",
-    "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
     "TTRPG/characters/My Characters/Drovath Vhaelythar",
     "TTRPG/worlds/kurvalyn/Kurvalyn.md",
     "TTRPG/worlds/kurvalyn/index.md",
@@ -217,7 +218,6 @@
     "Personal/Clippings",
     "Personal/Journal",
     "Personal",
-    "test1",
-    "_assets"
+    "test1"
   ]
 }

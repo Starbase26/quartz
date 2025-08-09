@@ -23,6 +23,6 @@ SORT modified DESC
 
 | Locatie                                       |
 | --------------------------------------------- |
-| [[TTRPG/session notes/20250728.md\|20250728]] |
-| [[TTRPG/session notes/20250726.md\|20250726]] |
+| [[20250728]] |
+| [[20250726]] |
 <!-- SerializedQuery END -->
