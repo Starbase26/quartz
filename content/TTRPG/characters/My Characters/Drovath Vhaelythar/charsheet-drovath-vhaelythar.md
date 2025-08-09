@@ -1,7 +1,7 @@
 ---
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
-modified: 2025-08-09 20:02:59
+modified: 2025-08-09 20:08:53
 ---
 
 # Drovath Vhaelythar
@@ -43,27 +43,28 @@ modified: 2025-08-09 20:02:59
 
 ## Skills
 
-| Skill             | Level |
-| ----------------- | ----- |
-| Combat Awareness  |       |
-| Intimidation      |       |
-| Perception        |       |
-| Evade             |       |
-|                   |       |
-| Read & Write      | 3     |
-| Language - Common | 3     |
-| Language - Drow   | 3     |
-|                   |       |
-| Excellent Hearing | \*    |
-| Excellent Vision  | \*    |
-| Night vision      | \*    |
-| Infra vision      | \*    |
-|                   |       |
-|                   |       |
-|                   |       |
-|                   |       |
-|                   |       |
-|                   |       |
+| Skill                | Level |
+| -------------------- | ----- |
+| Combat Awareness     |       |
+| Intimidation         |       |
+| Perception           |       |
+| Evade                |       |
+|                      |       |
+| Read & Write         | 3     |
+| Language - Common    | 3     |
+| Language - Drow      | 3     |
+| Language - Underdark | 3     |
+|                      |       |
+| Excellent Hearing    | \*    |
+| Excellent Vision     | \*    |
+| Night vision         | \*    |
+| Infra vision         | \*    |
+|                      |       |
+|                      |       |
+|                      |       |
+|                      |       |
+|                      |       |
+|                      |       |
 
 ### Notes on skills
 
@@ -82,9 +83,11 @@ modified: 2025-08-09 20:02:59
 #### Sight skills
 
 - **Infra vision**
-  *Racial feature (Drow)* - a heat-based vision: the greater the difference in heat from ambient, the clearer it is seen. 
+  *Racial feature (Drow)* - a heat-based vision. 
+  range: ca. 40 meter
 - **Night Vision**
-  *Racial feature (Drow)* - lower resolution than full light, but good enough to see obstacles, recognise faces, etc. 
+  *Racial feature (Drow)* - Lower resolution than full light, but good enough to see obstacles, recognise faces, etc. 
+  range: ca. 20 meter
 
 #### Combat skills
 
