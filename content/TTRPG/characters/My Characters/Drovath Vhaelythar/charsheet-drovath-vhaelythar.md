@@ -1,7 +1,7 @@
 ---
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
-modified: 2025-08-09 19:54:07
+modified: 2025-08-09 19:57:05
 ---
 
 # Drovath Vhaelythar
@@ -67,7 +67,27 @@ modified: 2025-08-09 19:54:07
 
 ### Notes on skills
 
+### Possible skills 
+
+#### Lores
+
+#### Social skills and arts
+
+#### Practical skills
+
+#### Crafts
+
+#### Specialist skills
+
+#### Sight skills
+
 - **Infra vision**
   Drovath grew up in the Underdark - moving around in complete darkness is not uncommon. Born with the traits those living in Underdark would have.
 - **Night Vision**
   Drovath is a drow - he would have the ability to see in low-light situations, though of course the vision is limited and has a lower resolution. 
+
+#### Combat skills
+
+#### Priest Skills
+
+---
