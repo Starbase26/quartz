@@ -17,8 +17,8 @@ title: Starbase 26 Vault
 
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
-| [[Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
-| [[Saalims logs]]          | YYYY-08-9 aug 2025 19:12:47  |
+| [[TTRPG/characters/My Characters/Abe Shun'ya/Abe Shun'ya (Sakai).md\|Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
+| [[TTRPG/characters/My Characters/Saalim abu Razin/Saalims logs.md\|Saalims logs]]          | YYYY-08-9 aug 2025 19:12:47  |
 <!-- SerializedQuery END -->
 
 ---
@@ -30,14 +30,14 @@ title: Starbase 26 Vault
 
 | note                                                                                            | type      | dir                                               |
 | ----------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------- |
-| [[roleplay-player-note]]                                     | \-        | templates                                         |
-| [[npc-template-design]]                                      | \-        | ScratchPad                                        |
-| [[Drovath Vhaelythar]] | character | TTRPG/characters/My Characters/Drovath Vhaelythar |
-| [[rpg-todo-list]]                                                       | \-        | TTRPG                                             |
-| [[Kurvalyn]]                                                 | world     | TTRPG/worlds/kurvalyn                             |
-| [[roleplay-new-country]]                                     | world     | templates                                         |
-| [[worldbuilding-ai-compatible]]                      | \-        | ScratchPad                                        |
-| [[ipv6-explained]]                                     | \-        | Personal/netwerk/ipv6                             |
-| [[ipv6-tutorials]]                                                | \-        | ScratchPad                                        |
-| [[netwerk-beleid]]                                          | \-        | Personal/netwerk                                  |
+| [[templates/roleplay-player-note.md\|roleplay-player-note]]                                     | \-        | templates                                         |
+| [[ScratchPad/npc-template-design.md\|npc-template-design]]                                      | \-        | ScratchPad                                        |
+| [[TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md\|Drovath Vhaelythar]] | character | TTRPG/characters/My Characters/Drovath Vhaelythar |
+| [[TTRPG/rpg-todo-list.md\|rpg-todo-list]]                                                       | \-        | TTRPG                                             |
+| [[TTRPG/worlds/kurvalyn/Kurvalyn.md\|Kurvalyn]]                                                 | world     | TTRPG/worlds/kurvalyn                             |
+| [[templates/roleplay-new-country.md\|roleplay-new-country]]                                     | world     | templates                                         |
+| [[ScratchPad/worldbuilding-ai-compatible.md\|worldbuilding-ai-compatible]]                      | \-        | ScratchPad                                        |
+| [[Personal/netwerk/ipv6/ipv6-explained.md\|ipv6-explained]]                                     | \-        | Personal/netwerk/ipv6                             |
+| [[ScratchPad/ipv6-tutorials.md\|ipv6-tutorials]]                                                | \-        | ScratchPad                                        |
+| [[Personal/netwerk/netwerk-beleid.md\|netwerk-beleid]]                                          | \-        | Personal/netwerk                                  |
 <!-- SerializedQuery END -->

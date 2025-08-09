@@ -16,7 +16,7 @@ title: My Characters list
 
 | Character                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------- |
-| [[Drovath Vhaelythar]]               |
-| [[Saalim Abu Razin Al Medjai]] |
-| [[Abe Shun'ya (Sakai)]]                    |
+| [[TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md\|Drovath Vhaelythar]]               |
+| [[TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md\|Saalim Abu Razin Al Medjai]] |
+| [[TTRPG/characters/My Characters/Abe Shun'ya/Abe Shun'ya (Sakai).md\|Abe Shun'ya (Sakai)]]                    |
 <!-- SerializedQuery END -->
