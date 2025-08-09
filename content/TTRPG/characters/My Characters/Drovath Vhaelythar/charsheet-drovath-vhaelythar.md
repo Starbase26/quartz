@@ -1,7 +1,7 @@
 ---
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
-modified: 2025-08-09 19:43:02
+modified: 2025-08-09 19:48:11
 ---
 
 # Drovath Vhaelythar
@@ -26,8 +26,8 @@ modified: 2025-08-09 19:43:02
 | Eyes         | Ruby red                      |
 | App. Age     | Human: 20                     |
 |              |                               |
-## Abilities
 
+## Abilities
 
 | Ability | Value |
 | ------- | ----- |
@@ -37,3 +37,23 @@ modified: 2025-08-09 19:43:02
 | INT     | 1     |
 | WIL     | 2     |
 | APP     | 0     |
+
+> **Sum total of all ability costs**: 20
+
+## Skills
+
+
+| Skill             | Level |
+| ----------------- | ----- |
+| Combat Awareness  |       |
+| Intimidation      |       |
+| Perception        |       |
+| Evade             |       |
+|                   |       |
+| Read & Write      | 3     |
+| Language - Common | 3     |
+| Language - Drow   | 3     |
+|                   |       |
+| Excellent Hearing |       |
+| Excellent Vision  |       |
+|                   |       |
