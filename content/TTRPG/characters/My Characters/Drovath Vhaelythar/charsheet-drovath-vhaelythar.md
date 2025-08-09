@@ -1,7 +1,7 @@
 ---
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
-modified: 2025-08-09 20:08:53
+modified: 2025-08-09 20:13:50
 ---
 
 # Drovath Vhaelythar
@@ -65,6 +65,12 @@ modified: 2025-08-09 20:08:53
 |                      |       |
 |                      |       |
 |                      |       |
+
+## Flaws
+
+#### Sunlight Sensitivity
+
+#todo
 
 ### Notes on skills
 
