@@ -11,7 +11,7 @@ location: kemet
 
 # Drovath Vhaelythar
 
-> ==Pronounciation==
+> [!Pronounciation]-
 > **Drovath**
 > - Dro: like _dro_ in “droll” (rhymes with “throw” without the w)
 > - vath: “vath” with soft “th” as in “thin”
@@ -20,13 +20,13 @@ location: kemet
 > - Vhae: “Vhay” — like “v” + “hay” (soft, breathy)
 > - ly: short “lih” as in “lit” without the t
 > - thar: “th” as in “thorn,” + “ar” as in “car”
-> So: **Vhay-LIH-thar** (emphasis on the middle syllable)
+> So: Vhay-LIH-thar (emphasis on the middle syllable)
 > 
-> *IPA*: /ˈdɹoʊ.væθ ˈvhaɪ.lɪ.θɑɹ/
+> **IPA**: /ˈdɹoʊ.væθ ˈvhaɪ.lɪ.θɑɹ/
 
 ---
 
->[[charsheet-drovath-vhaelythar.pdf|Character Sheet]]
+- [[charsheet-drovath-vhaelythar.pdf|Character Sheet]]
 
 ---
 

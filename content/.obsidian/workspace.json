@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d91383130075fab1",
+  "active": "838a79160a6d4682",
   "lastOpenFiles": [
     "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.pdf",
     "TTRPG/rpg-todo-list.md",

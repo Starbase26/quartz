@@ -18,7 +18,7 @@ title: Starbase 26 Vault
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
 | [[Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
-| [[Saalims logs]]          | YYYY-07-30 jul 2025 02:31:15 |
+| [[Saalims logs]]          | YYYY-08-9 aug 2025 19:12:47  |
 <!-- SerializedQuery END -->
 
 ---
@@ -28,16 +28,16 @@ title: Starbase 26 Vault
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "note", type, file.folder as "dir" FROM "" WHERE modified != "" AND file.name != "index" SORT modified DESC LIMIT 10 -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "note", type, file.folder as "dir" FROM "" WHERE modified != "" AND file.name != "index" SORT modified DESC LIMIT 10 -->
 
-| note                                                                                                          | type      | dir                                             |
-| ------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
-| [[roleplay-player-note]]                                                   | \-        | templates                                       |
-| [[npc-template-design]]                                                    | \-        | ScratchPad                                      |
-| [[Saalims logs]]                             | \-        | TTRPG/characters/My Characters/Saalim abu Razin |
-| [[20250728]]                                                                 | session   | TTRPG/session notes                             |
-| [[dns-lijst]]                                                                  | \-        | Personal/netwerk                                |
-| [[Saalim Abu Razin Al Medjai]] | character | TTRPG/characters/My Characters/Saalim abu Razin |
-| [[20250727]]                                                                 | session   | TTRPG/session notes                             |
-| [[20250726]]                                                                 | session   | TTRPG/session notes                             |
-| [[Saalim's  to do lijstje]]       | \-        | TTRPG/characters/My Characters/Saalim abu Razin |
-| [[Abe Shun'ya (Sakai)]]                    | character | TTRPG/characters/My Characters/Abe Shun'ya      |
+| note                                                                                            | type      | dir                                               |
+| ----------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------- |
+| [[roleplay-player-note]]                                     | \-        | templates                                         |
+| [[npc-template-design]]                                      | \-        | ScratchPad                                        |
+| [[Drovath Vhaelythar]] | character | TTRPG/characters/My Characters/Drovath Vhaelythar |
+| [[rpg-todo-list]]                                                       | \-        | TTRPG                                             |
+| [[Kurvalyn]]                                                 | world     | TTRPG/worlds/kurvalyn                             |
+| [[roleplay-new-country]]                                     | world     | templates                                         |
+| [[worldbuilding-ai-compatible]]                      | \-        | ScratchPad                                        |
+| [[ipv6-explained]]                                     | \-        | Personal/netwerk/ipv6                             |
+| [[ipv6-tutorials]]                                                | \-        | ScratchPad                                        |
+| [[netwerk-beleid]]                                          | \-        | Personal/netwerk                                  |
 <!-- SerializedQuery END -->

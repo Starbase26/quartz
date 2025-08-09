@@ -14,9 +14,9 @@ title: My Characters list
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link As "Character" FROM "" WHERE player="Kevin Schaaps" AND type = "character" SORT modified DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link As "Character" FROM "" WHERE player="Kevin Schaaps" AND type = "character" SORT modified DESC -->
 
-| Character                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------- |
-| [[Jabari Adewale al-Masari]] |
-| [[Saalim Abu Razin Al Medjai]]     |
-| [[Abe Shun'ya (Sakai)]]                        |
+| Character                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------- |
+| [[Drovath Vhaelythar]]               |
+| [[Saalim Abu Razin Al Medjai]] |
+| [[Abe Shun'ya (Sakai)]]                    |
 <!-- SerializedQuery END -->
