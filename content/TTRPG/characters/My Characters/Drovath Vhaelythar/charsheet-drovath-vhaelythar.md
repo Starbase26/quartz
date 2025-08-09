@@ -1,7 +1,7 @@
 ---
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
-modified: 2025-08-09 19:57:05
+modified: 2025-08-09 20:02:59
 ---
 
 # Drovath Vhaelythar
@@ -11,7 +11,7 @@ modified: 2025-08-09 19:57:05
 | Field         | Value                         |
 | ------------- | ----------------------------- |
 | Name          | Drovath Vhaelythar            |
-| Starter Level |                               |
+| Starter Level | 20+                           |
 | Occupation    | (Dark) Paladin                |
 | Age (DoB)     | 91 (OC: 2025-08-09)           |
 | Nationality   | Bargolldur                    |
@@ -82,9 +82,9 @@ modified: 2025-08-09 19:57:05
 #### Sight skills
 
 - **Infra vision**
-  Drovath grew up in the Underdark - moving around in complete darkness is not uncommon. Born with the traits those living in Underdark would have.
+  *Racial feature (Drow)* - a heat-based vision: the greater the difference in heat from ambient, the clearer it is seen. 
 - **Night Vision**
-  Drovath is a drow - he would have the ability to see in low-light situations, though of course the vision is limited and has a lower resolution. 
+  *Racial feature (Drow)* - lower resolution than full light, but good enough to see obstacles, recognise faces, etc. 
 
 #### Combat skills
 
