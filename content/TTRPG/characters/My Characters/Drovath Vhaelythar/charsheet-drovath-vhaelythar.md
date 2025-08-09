@@ -1,31 +1,32 @@
 ---
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
-modified: 2025-08-09 19:48:11
+modified: 2025-08-09 19:54:07
 ---
 
 # Drovath Vhaelythar
 
 ## Personal info
 
-| Field        | Value                         |
-| ------------ | ----------------------------- |
-| Name         | Drovath Vhaelythar            |
-| Occupation   | (Dark) Paladin                |
-| Age (DoB)    | 91 (OC: 2025-08-09)           |
-| Nationality  | Bargolldur                    |
-| Religion     | Drow                          |
-| Patron Deity | Alu'roth                      |
-|              |                               |
-| Race         | Drow (1/16 drok)              |
-| Sex          | Male                          |
-| Height       | 204 cm                        |
-| Weight       | 75kg                          |
-| Skin         | Obsidian black (Skintype: VI) |
-| Hair         | Pure white                    |
-| Eyes         | Ruby red                      |
-| App. Age     | Human: 20                     |
-|              |                               |
+| Field         | Value                         |
+| ------------- | ----------------------------- |
+| Name          | Drovath Vhaelythar            |
+| Starter Level |                               |
+| Occupation    | (Dark) Paladin                |
+| Age (DoB)     | 91 (OC: 2025-08-09)           |
+| Nationality   | Bargolldur                    |
+| Religion      | Drow                          |
+| Patron Deity  | Alu'roth                      |
+|               |                               |
+| Race          | Drow (1/16 drok)              |
+| Sex           | Male                          |
+| Height        | 204 cm                        |
+| Weight        | 75kg                          |
+| Skin          | Obsidian black (Skintype: VI) |
+| Hair          | Pure white                    |
+| Eyes          | Ruby red                      |
+| App. Age      | Human: 20                     |
+|               |                               |
 
 ## Abilities
 
@@ -42,7 +43,6 @@ modified: 2025-08-09 19:48:11
 
 ## Skills
 
-
 | Skill             | Level |
 | ----------------- | ----- |
 | Combat Awareness  |       |
@@ -54,6 +54,20 @@ modified: 2025-08-09 19:48:11
 | Language - Common | 3     |
 | Language - Drow   | 3     |
 |                   |       |
-| Excellent Hearing |       |
-| Excellent Vision  |       |
+| Excellent Hearing | \*    |
+| Excellent Vision  | \*    |
+| Night vision      | \*    |
+| Infra vision      | \*    |
 |                   |       |
+|                   |       |
+|                   |       |
+|                   |       |
+|                   |       |
+|                   |       |
+
+### Notes on skills
+
+- **Infra vision**
+  Drovath grew up in the Underdark - moving around in complete darkness is not uncommon. Born with the traits those living in Underdark would have.
+- **Night Vision**
+  Drovath is a drow - he would have the ability to see in low-light situations, though of course the vision is limited and has a lower resolution. 
