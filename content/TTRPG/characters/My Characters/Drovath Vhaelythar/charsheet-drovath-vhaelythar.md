@@ -1,7 +1,10 @@
 ---
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
-modified: 2025-08-09 20:13:50
+modified: 2025-08-09 20:16:43
+type: chararacter  sheet notes
+character-name:
+  - Drovath Vhaelythar
 ---
 
 # Drovath Vhaelythar
@@ -70,7 +73,7 @@ modified: 2025-08-09 20:13:50
 
 #### Sunlight Sensitivity
 
-#todo
+#todo/character Add more information about sunlight sensitivity
 
 ### Notes on skills
 
