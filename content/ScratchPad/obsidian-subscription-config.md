@@ -1,7 +1,7 @@
 ---
 title: Obsidian subscription configuration
 created: 2025-08-10 19:12:18
-modified: 2025-08-10 19:41:23
+modified: 2025-08-10 19:45:40
 ---
 
 # Obsidian subscription config
@@ -22,11 +22,20 @@ Als E en ik willen samenwerken aan EpicArcs, of andere publieke roleplay zooi, m
 
 # Nieuwe vault voor samenwerking
 
+## Notes
+
+- [ ] Character sheets voor PCs worden opgeslagen in de map van het Character:
+	- Player
+		- Character XXX
+## Structure
+
 - \_assets
-	- templates
-	- images
-	- character-sheets
-- 01_Worldbuilding
+	- templates/
+	- images/
+- Game-Design
+	- EpicArcs
+	- DD4
+- Worldbuilding
 	- World
 		- Overview.md
 		- Locations/
@@ -40,15 +49,14 @@ Als E en ik willen samenwerken aan EpicArcs, of andere publieke roleplay zooi, m
 	- Lore
 		- History/
 		- Magic/
+			- Items/
 		- Myths and Legends
 		- Religion/
-- 02_GameDesign
-	- EpicArcs
-	- DD4
-- 03_Characters
-	- E's Characters
-		- Character E001/
-		- Character E002/
-	- K's Characters
-		- Drovath
-		- Saalim
+- Playing-Characters/
+	- E's Characters/
+		- Lizzy/
+		- NieuweMiep/
+	- K's Characters/
+		- Drovath/
+		- Saalim/
+		- Sakai/
