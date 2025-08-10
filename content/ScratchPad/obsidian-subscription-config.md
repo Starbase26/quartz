@@ -1,7 +1,7 @@
 ---
 title: Obsidian subscription configuration
 created: 2025-08-10 19:12:18
-modified: 2025-08-10 19:36:18
+modified: 2025-08-10 19:41:23
 ---
 
 # Obsidian subscription config
@@ -28,27 +28,27 @@ Als E en ik willen samenwerken aan EpicArcs, of andere publieke roleplay zooi, m
 	- character-sheets
 - 01_Worldbuilding
 	- World
-		- \[NOTE] Overview.md
-		- \[FOLDER] Locations/
-			- \[FOLDER] Continents/
-				- \[FOLDER] Nations/
-				- \[FOLDER] Cities/
-		- \[FOLDER] Maps/	
+		- Overview.md
+		- Locations/
+			- Continents/
+				- Nations/
+				- Cities/
+		- Maps/	
 	- Characters
-		- \[FOLDER] NPCs/
-		- \[FOLDER] Factions/
+		- NPCs/
+		- Factions/
 	- Lore
-		- \[FOLDER] History/
-		- \[FOLDER] Religion/
-		- \[FOLDER] Magic/
-		- \[FOLDER] Myths and Legends
-- 02_Game Design
+		- History/
+		- Magic/
+		- Myths and Legends
+		- Religion/
+- 02_GameDesign
 	- EpicArcs
-	- DD4 (legacy)
+	- DD4
 - 03_Characters
 	- E's Characters
-		- Character E001
-		- Character E002
+		- Character E001/
+		- Character E002/
 	- K's Characters
-		- Character K001
-		- Character K002
+		- Drovath
+		- Saalim
