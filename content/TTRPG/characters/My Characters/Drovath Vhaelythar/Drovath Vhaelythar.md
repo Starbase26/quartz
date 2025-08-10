@@ -1,7 +1,7 @@
 ---
 type: character
 created: 2025-08-09 18:59:29
-modified: 2025-08-10 02:35:14
+modified: 2025-08-10 02:40:56
 player: Kevin Schaaps
 character-name:
   - Drovath Vhaelythar
@@ -36,8 +36,18 @@ location: kemet
 
 ```dataview
 TABLE file.mtime AS "Date Modified"
-FROM "Drovath Vhaelythar"
-WHERE contains(lower(file.character-name), "drovath vhaelythar")
-AND contains(lower(file.tags), "todo")
+FROM ""
+WHERE contains(file.character-name, "Drovath Vhaelythar")
+AND any(file.tags, (t) => contains(t, "todo"))
 SORT file.mtime DESC
+```
+
+---
+
+Nieuwe poging:
+
+```dataview
+TABLE character-name
+FROM  ""
+WHERE contains(character-name, "Saalim")
 ```
