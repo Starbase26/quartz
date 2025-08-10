@@ -1,7 +1,7 @@
 ---
 title: Obsidian subscription configuration
 created: 2025-08-10 19:12:18
-modified: 2025-08-10 19:29:36
+modified: 2025-08-10 19:36:18
 ---
 
 # Obsidian subscription config
@@ -29,9 +29,10 @@ Als E en ik willen samenwerken aan EpicArcs, of andere publieke roleplay zooi, m
 - 01_Worldbuilding
 	- World
 		- \[NOTE] Overview.md
-		- \[FOLDER] Continents/
-		- \[FOLDER] Nations/
-		- \[FOLDER] Cities/
+		- \[FOLDER] Locations/
+			- \[FOLDER] Continents/
+				- \[FOLDER] Nations/
+				- \[FOLDER] Cities/
 		- \[FOLDER] Maps/	
 	- Characters
 		- \[FOLDER] NPCs/
