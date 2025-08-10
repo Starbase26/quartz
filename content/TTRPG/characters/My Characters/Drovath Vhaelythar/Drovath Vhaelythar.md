@@ -1,7 +1,7 @@
 ---
 type: character
 created: 2025-08-09 18:59:29
-modified: 2025-08-10 02:25:00
+modified: 2025-08-10 02:31:24
 player: Kevin Schaaps
 character-name:
   - Drovath Vhaelythar
@@ -34,10 +34,6 @@ location: kemet
 
 ### Things still to do
 
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link As "Location" FROM "" WHERE character-name="Drovath Vhaelythar" AND contains(lower(file.tags), "#todo/character") SORT modified DESC -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link As "Location" FROM "" WHERE character-name="Drovath Vhaelythar" AND contains(lower(file.tags), "#todo/character") SORT modified DESC -->
-
-| Location |
-| -------- |
-<!-- SerializedQuery END -->
-<!-- QueryToSerialize: LIST FROM #foo  -->
+```dataview
+TABLE 
+```
