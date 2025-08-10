@@ -1,6 +1,6 @@
 ---
 created: 2025-07-31 18:04:03
-modified: 2025-08-06 19:19:05
+modified: 2025-08-10 19:11:09
 ---
 
 # Starbase 26 Network Policies
@@ -16,8 +16,10 @@ modified: 2025-08-06 19:19:05
 
 ## Homelab
 
-- [ ] `*.ops.starbase26.nl` -> 
+- [ ] `*.eng.starbase26.nl` -> 
       Alle VMs/LXC's/bare-metal hosts in Starbase26
+- [ ] \*.ops.starbase26.nl ->
+      Hostnames voor intern netwerk achter Reverr
 - [ ] `*.starbase26.nl` ->
       DMZ
 
