@@ -2,11 +2,11 @@
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
 modified: 2025-08-10 02:27:21
-type: chararacter  sheet notes
+type: chararacter sheet notes
 character-name:
   - Drovath Vhaelythar
 tags:
-  - "todo/character"
+  - todo/character
 ---
 
 # Drovath Vhaelythar

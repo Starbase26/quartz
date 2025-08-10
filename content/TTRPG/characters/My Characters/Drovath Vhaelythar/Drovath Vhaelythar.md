@@ -1,7 +1,7 @@
 ---
 type: character
 created: 2025-08-09 18:59:29
-modified: 2025-08-10 02:46:14
+modified: 2025-08-10 02:46:43
 player: Kevin Schaaps
 character-name:
   - Drovath Vhaelythar
@@ -34,40 +34,10 @@ location: kemet
 
 ### Things still to do
 
-TABLE character-name
-FROM  ""
-WHERE contains(character-name, "Drovath")
-AND contains(file.tags, "todo")
+<!-- QueryToSerialize: TABLE type As "Note Type", modified As "Last modified" FROM "" WHERE contains(character-name, "Drovath") AND contains(file.tags, "todo") SORT modified DESC -->
+<!-- SerializedQuery: TABLE type As "Note Type", modified As "Last modified" FROM "" WHERE contains(character-name, "Drovath") AND contains(file.tags, "todo") SORT modified DESC -->
 
-<!-- QueryToSerialize: TABLE file.type As "Note Type", modified As "Last modified" FROM "" WHERE contains(character-name, "Drovath") AND contains(file.tags, "todo") SORT modified DESC -->
-<!-- SerializedQuery: TABLE file.type As "Note Type", modified As "Last modified" FROM "" WHERE contains(character-name, "Drovath") AND contains(file.tags, "todo") SORT modified DESC -->
-
-| Name                                                                                                                | Note Type | Last modified       |
-| ------------------------------------------------------------------------------------------------------------------- | --------- | ------------------- |
-| [[charsheet-drovath-vhaelythar]] | \-        | 2025-08-10 02:27:21 |
+| Name                                                                                                                | Note Type               | Last modified       |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------- |
+| [[charsheet-drovath-vhaelythar]] | chararacter sheet notes | 2025-08-10 02:27:21 |
 <!-- SerializedQuery END -->
-
-
-
-
-
-
----
-```dataview
-TABLE file.mtime AS "Date Modified"
-FROM ""
-WHERE contains(file.character-name, "Drovath Vhaelythar")
-AND any(file.tags, (t) => contains(t, "todo"))
-SORT file.mtime DESC
-```
-
----
-
-Nieuwe poging:
-
-```dataview
-TABLE character-name
-FROM  ""
-WHERE contains(character-name, "Drovath")
-AND contains(file.tags, "todo")
-```

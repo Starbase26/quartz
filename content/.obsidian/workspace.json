@@ -49,8 +49,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
+                "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of charsheet-drovath-vhaelythar"
+              "title": "Outline of Drovath Vhaelythar"
             }
           },
           {
@@ -209,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f46123d437038d87",
+  "active": "838a79160a6d4682",
   "lastOpenFiles": [
-    "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
     "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
+    "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim's  to do lijstje.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim Abu Razin Al Medjai.md",
     "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.pdf",
