@@ -1,7 +1,7 @@
 ---
 title: Obsidian subscription configuration
 created: 2025-08-10 19:12:18
-modified: 2025-08-10 19:20:34
+modified: 2025-08-10 19:25:46
 ---
 
 # Obsidian subscription config
@@ -27,6 +27,7 @@ Als E en ik willen samenwerken aan EpicArcs, of andere publieke roleplay zooi, m
 	- images
 	- character-sheets
 - 01_Worldbuilding
+	- 
 - 02_Game Design
 	- EpicArcs
 	- DD4 (legacy)
