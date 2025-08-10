@@ -1,7 +1,7 @@
 ---
 type: character
 created: 2025-08-09 18:59:29
-modified: 2025-08-10 02:40:56
+modified: 2025-08-10 02:46:14
 player: Kevin Schaaps
 character-name:
   - Drovath Vhaelythar
@@ -34,6 +34,25 @@ location: kemet
 
 ### Things still to do
 
+TABLE character-name
+FROM  ""
+WHERE contains(character-name, "Drovath")
+AND contains(file.tags, "todo")
+
+<!-- QueryToSerialize: TABLE file.type As "Note Type", modified As "Last modified" FROM "" WHERE contains(character-name, "Drovath") AND contains(file.tags, "todo") SORT modified DESC -->
+<!-- SerializedQuery: TABLE file.type As "Note Type", modified As "Last modified" FROM "" WHERE contains(character-name, "Drovath") AND contains(file.tags, "todo") SORT modified DESC -->
+
+| Name                                                                                                                | Note Type | Last modified       |
+| ------------------------------------------------------------------------------------------------------------------- | --------- | ------------------- |
+| [[charsheet-drovath-vhaelythar]] | \-        | 2025-08-10 02:27:21 |
+<!-- SerializedQuery END -->
+
+
+
+
+
+
+---
 ```dataview
 TABLE file.mtime AS "Date Modified"
 FROM ""
@@ -49,5 +68,6 @@ Nieuwe poging:
 ```dataview
 TABLE character-name
 FROM  ""
-WHERE contains(character-name, "Saalim")
+WHERE contains(character-name, "Drovath")
+AND contains(file.tags, "todo")
 ```
