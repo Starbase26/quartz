@@ -1,7 +1,7 @@
 ---
 title: Obsidian subscription configuration
 created: 2025-08-10 19:12:18
-modified: 2025-08-10 19:45:40
+modified: 2025-08-10 19:46:45
 ---
 
 # Obsidian subscription config
@@ -24,9 +24,11 @@ Als E en ik willen samenwerken aan EpicArcs, of andere publieke roleplay zooi, m
 
 ## Notes
 
-- [ ] Character sheets voor PCs worden opgeslagen in de map van het Character:
+- [ ] **Character sheets voor PCs worden opgeslagen in de map van het Character**
 	- Player
 		- Character XXX
+			- charsheet-charName.pdf
+
 ## Structure
 
 - \_assets
