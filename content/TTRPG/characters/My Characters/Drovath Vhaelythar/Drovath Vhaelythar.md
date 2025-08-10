@@ -1,7 +1,7 @@
 ---
 type: character
 created: 2025-08-09 18:59:29
-modified: 2025-08-09 19:08:58
+modified: 2025-08-10 02:21:19
 player: Kevin Schaaps
 character-name:
   - Drovath Vhaelythar
@@ -31,3 +31,6 @@ location: kemet
 ---
 
 ## Notes
+
+### Things still to do
+
