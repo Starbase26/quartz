@@ -19,9 +19,9 @@ modified: 2025-08-10 19:11:09
 - [ ] `*.eng.starbase26.nl` -> 
       Alle VMs/LXC's/bare-metal hosts in Starbase26
 - [ ] \*.ops.starbase26.nl ->
-      Hostnames voor intern netwerk achter Reverr
+      Hostnames voor intern netwerk achter Reverse Proxy
 - [ ] `*.starbase26.nl` ->
-      DMZ
+      DMZ servers
 
 ```
 *.starbase26.nl
@@ -34,4 +34,4 @@ modified: 2025-08-10 19:11:09
 
 - De naam is alleen voor de box, niet voor enige services die erop draaien.
 	- Voorbeeld:
-	  `seedbox.lab.starbase26.nl` draait verschillende \*Arr services, deze krijgen niet een aparte naam.
+	  `seedbox.ops.starbase26.nl` draait verschillende \*Arr services, deze krijgen niet een aparte naam.

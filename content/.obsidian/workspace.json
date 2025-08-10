@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/netwerk/netwerk-beleid.md",
+                "file": "ScratchPad/obsidian-subscription-config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "netwerk-beleid"
+              "title": "obsidian-subscription-config"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/netwerk/netwerk-beleid.md",
+                "file": "ScratchPad/obsidian-subscription-config.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of netwerk-beleid"
+              "title": "Outline of obsidian-subscription-config"
             }
           },
           {
@@ -210,6 +210,8 @@
   },
   "active": "838a79160a6d4682",
   "lastOpenFiles": [
+    "Personal/netwerk/netwerk-beleid.md",
+    "ScratchPad/obsidian-subscription-config.md",
     "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
     "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalim's  to do lijstje.md",
@@ -229,7 +231,6 @@
     "ScratchPad/ipv6-tutorials.md",
     "Personal/netwerk/ipv6",
     "Personal/netwerk/Untitled.md",
-    "Personal/netwerk/netwerk-beleid.md",
     "ScratchPad/ldap-tutorials.md",
     "Personal/netwerk/titels-voor-homelab-docs.md",
     "Personal/netwerk/Starbase26 Netwerk.md",
