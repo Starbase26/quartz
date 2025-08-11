@@ -6,5 +6,6 @@
   "attachmentFolderPath": "_assets",
   "showInlineTitle": false,
   "trashOption": "local",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }
