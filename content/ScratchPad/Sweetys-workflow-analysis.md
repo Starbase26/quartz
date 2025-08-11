@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11 15:45:45
-modified: 2025-08-11 16:23:27
+modified: 2025-08-11 17:09:41
 ---
 # Sweety’s workflow analyse
 
@@ -62,4 +62,19 @@ Ik ben **vet** gedrukt
 Ik ben een quote
 
 
-#
+# CamelCase
+
+# pascalCase
+
+# kebab-format
+
+# Data_Typisten_titel_op
+
+# 01-Dagboek
+# 02- Roleplay
+
+# Twee_woorden-zooi
+
+- Roleplay
+	- DMing
+	- 
