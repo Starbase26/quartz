@@ -18,7 +18,7 @@ title: Starbase 26 Vault
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
 | [[Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
-| [[Saalims logs]]          | YYYY-08-11 aug 2025 16:49:36 |
+| [[Saalims logs]]          | YYYY-08-11 aug 2025 16:53:36 |
 <!-- SerializedQuery END -->
 
 ---
@@ -30,6 +30,7 @@ title: Starbase 26 Vault
 
 | note                                                                                                                | type                    | dir                                               |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
+| [[Untitled]]                                                                                | \-                      | ScratchPad                                        |
 | [[roleplay-player-note]]                                                         | \-                      | templates                                         |
 | [[npc-template-design]]                                                          | \-                      | ScratchPad                                        |
 | [[20250728]]                                                                       | session                 | TTRPG/session notes                               |
@@ -39,5 +40,4 @@ title: Starbase 26 Vault
 | [[netwerk-beleid]]                                                              | \-                      | Personal/netwerk                                  |
 | [[charsheet-drovath-vhaelythar]] | chararacter sheet notes | TTRPG/characters/My Characters/Drovath Vhaelythar |
 | [[rpg-todo-list]]                                                                           | \-                      | TTRPG                                             |
-| [[Kurvalyn]]                                                                     | world                   | TTRPG/worlds/kurvalyn                             |
 <!-- SerializedQuery END -->
