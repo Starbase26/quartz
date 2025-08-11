@@ -1,6 +1,6 @@
 ---
 created: 2025-08-11 15:45:45
-modified: 2025-08-11 16:21:06
+modified: 2025-08-11 16:23:27
 ---
 # Sweety’s workflow analyse
 
@@ -50,9 +50,13 @@ Ik maak een genummerd lijstje:
 
 Checkboxlijstjes:
 - [ ] Optie 1
-- [ ] Optie 2
+- [x] Optie 2
 - [x] Optie 3
-- [ ] 
 
 
-- [ ] 
+Ik ben **vet** gedrukt
+
+
+
+
+Ik ben een quote

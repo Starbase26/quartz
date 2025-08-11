@@ -1,7 +1,7 @@
 ---
 type: character
 created: 2025-08-09 18:59:29
-modified: 2025-08-10 02:46:43
+modified: 2025-08-11 16:24:05
 player: Kevin Schaaps
 character-name:
   - Drovath Vhaelythar
