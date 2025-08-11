@@ -1,6 +1,6 @@
 ---
 created: 2025-07-27 15:10:24
-modified: 2025-07-30 02:31:14
+modified: 2025-08-11 17:16:28
 tags:
   - "todo/player"
 ---
@@ -39,3 +39,4 @@ tags:
 | [[20250718]] | Plan hatched to help Omar Mawazi ditch his wife                                                                                                                                                                                                                                                                                                                                                                          |
 | [[20250716]] | Omar Mawazi's wife, the Banshee, Destruction of Al Qadir                                                                                                                                                                                                                                                                                                                                                                 |
 <!-- SerializedQuery END -->
+
