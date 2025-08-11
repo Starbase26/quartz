@@ -18,7 +18,7 @@ title: Starbase 26 Vault
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
 | [[Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
-| [[Saalims logs]]          | YYYY-08-11 aug 2025 16:27:38 |
+| [[Saalims logs]]          | YYYY-08-11 aug 2025 16:31:35 |
 <!-- SerializedQuery END -->
 
 ---
@@ -32,6 +32,7 @@ title: Starbase 26 Vault
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
 | [[roleplay-player-note]]                                                         | \-                      | templates                                         |
 | [[npc-template-design]]                                                          | \-                      | ScratchPad                                        |
+| [[20250728]]                                                                       | session                 | TTRPG/session notes                               |
 | [[Drovath Vhaelythar]]                     | character               | TTRPG/characters/My Characters/Drovath Vhaelythar |
 | [[Sweetys-workflow-analysis]]                                              | \-                      | ScratchPad                                        |
 | [[obsidian-subscription-config]]                                        | \-                      | ScratchPad                                        |
@@ -39,5 +40,4 @@ title: Starbase 26 Vault
 | [[charsheet-drovath-vhaelythar]] | chararacter sheet notes | TTRPG/characters/My Characters/Drovath Vhaelythar |
 | [[rpg-todo-list]]                                                                           | \-                      | TTRPG                                             |
 | [[Kurvalyn]]                                                                     | world                   | TTRPG/worlds/kurvalyn                             |
-| [[roleplay-new-country]]                                                         | world                   | templates                                         |
 <!-- SerializedQuery END -->
