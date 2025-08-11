@@ -21,8 +21,9 @@ SORT modified DESC
 <!-- QueryToSerialize: TABLE WITHOUT ID file.link as "Locatie" FROM "TTRPG" WHERE contains(lower(file.tags), "#todo/character") SORT modified DESC -->
 <!-- SerializedQuery: TABLE WITHOUT ID file.link as "Locatie" FROM "TTRPG" WHERE contains(lower(file.tags), "#todo/character") SORT modified DESC -->
 
-| Locatie                                       |
-| --------------------------------------------- |
-| [[20250728]] |
-| [[20250726]] |
+| Locatie                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------- |
+| [[charsheet-drovath-vhaelythar]] |
+| [[20250728]]                                                                       |
+| [[20250726]]                                                                       |
 <!-- SerializedQuery END -->
