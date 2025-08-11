@@ -7,5 +7,6 @@
   "showInlineTitle": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "propertiesInDocument": "visible"
 }

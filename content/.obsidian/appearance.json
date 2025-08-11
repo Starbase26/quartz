@@ -4,5 +4,8 @@
   "monospaceFontFamily": "",
   "textFontFamily": "",
   "accentColor": "#78b3f2",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false
 }
