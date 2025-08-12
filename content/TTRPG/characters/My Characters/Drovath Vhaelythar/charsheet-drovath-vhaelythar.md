@@ -1,7 +1,7 @@
 ---
 title: Drovath Vhaelythar charnotes
 created: 2025-08-09 19:29:17
-modified: 2025-08-12 19:56:10
+modified: 2025-08-12 19:59:42
 type: chararacter sheet notes
 character-name:
   - Drovath Vhaelythar
@@ -116,5 +116,5 @@ tags:
 | 🚺       | U+1F6BA             | Vrouw-symbool op bord                       |
 | 🚻       | U+1F6BB             | Toilet-symbool (man + vrouw)                |
 | 🧑‍🤝‍🧑 | samengestelde emoji | Twee personen hand in hand (genderneutraal) |
-
-
+♂️
+♀️
