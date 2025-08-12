@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "charsheet-drovath-vhaelythar"
