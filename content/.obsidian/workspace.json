@@ -15,7 +15,7 @@
               "state": {
                 "file": "ScratchPad/email-freedom-domain-cloudflare.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "email-freedom-domain-cloudflare"
