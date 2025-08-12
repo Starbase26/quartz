@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/session notes/2025-07-27.md",
-                "mode": "preview",
+                "file": "ScratchPad/email-freedom-domain-cloudflare.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-27"
+              "title": "email-freedom-domain-cloudflare"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/session notes/2025-07-27.md",
+                "file": "ScratchPad/email-freedom-domain-cloudflare.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-27"
+              "title": "Outline of email-freedom-domain-cloudflare"
             }
           },
           {
@@ -210,6 +210,8 @@
   },
   "active": "838a79160a6d4682",
   "lastOpenFiles": [
+    "TTRPG/session notes/2025-07-27.md",
+    "ScratchPad/email-freedom-domain-cloudflare.md",
     "TTRPG/session notes/2025-07-28.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalims logs.md",
     "index.md",
@@ -217,7 +219,6 @@
     "Testblaat.md",
     "ScratchPad/obsidian-subscription-config.md",
     "20250811.md",
-    "ScratchPad/Untitled.md",
     "ScratchPad/Sweetys-workflow-analysis.md",
     "TTRPG/characters/My Characters/index.md",
     "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
@@ -239,7 +240,6 @@
     "ScratchPad/ipv6-tutorials.md",
     "Personal/netwerk/ipv6",
     "Personal/netwerk/Untitled.md",
-    "ScratchPad/ldap-tutorials.md",
     "_assets/screenshot-sulayman-family-updated.jpg",
     "Personal/netwerk",
     "publish.css",
