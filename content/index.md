@@ -1,7 +1,7 @@
 ---
 date: 2025-07-19
 created: 2025-06-19 14:43:38
-modified: 2025-07-30 02:32:43
+modified: 2025-08-13 17:50:50
 aliases:
   - Kevin's Vault
 linter-yaml-title-alias: Kevin's Vault
@@ -18,7 +18,7 @@ title: Starbase 26 Vault
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
 | [[Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
-| [[Saalims logs]]          | YYYY-08-11 aug 2025 17:44:56 |
+| [[Saalims logs]]          | YYYY-08-13 aug 2025 17:50:44 |
 <!-- SerializedQuery END -->
 
 ---
@@ -32,12 +32,12 @@ title: Starbase 26 Vault
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
 | [[roleplay-player-note]]                                                         | \-                      | templates                                         |
 | [[npc-template-design]]                                                          | \-                      | ScratchPad                                        |
-| [[Testblaat]]                                                                                         | \-                      |                                                   |
+| [[charsheet-drovath-vhaelythar]] | chararacter sheet notes | TTRPG/characters/My Characters/Drovath Vhaelythar |
+| [[2025-07-18]]                                                                   | session                 | TTRPG/session notes                               |
+| [[email-freedom-domain-cloudflare]]                                  | \-                      | ScratchPad                                        |
+| [[2025-07-28]]                                                                   | session                 | TTRPG/session notes                               |
 | [[Saalims logs]]                                   | \-                      | TTRPG/characters/My Characters/Saalim abu Razin   |
 | [[Sweetys-workflow-analysis]]                                              | \-                      | ScratchPad                                        |
-| [[20250728]]                                                                       | session                 | TTRPG/session notes                               |
 | [[Drovath Vhaelythar]]                     | character               | TTRPG/characters/My Characters/Drovath Vhaelythar |
 | [[obsidian-subscription-config]]                                        | \-                      | ScratchPad                                        |
-| [[netwerk-beleid]]                                                              | \-                      | Personal/netwerk                                  |
-| [[charsheet-drovath-vhaelythar]] | chararacter sheet notes | TTRPG/characters/My Characters/Drovath Vhaelythar |
 <!-- SerializedQuery END -->
