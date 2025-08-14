@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Drovath Vhaelythar"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "TTRPG/characters/My Characters/Drovath Vhaelythar/Drovath Vhaelythar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Drovath Vhaelythar"
             }
           },
           {
@@ -197,6 +197,7 @@
   },
   "active": "f46123d437038d87",
   "lastOpenFiles": [
+    "index.md",
     "ScratchPad/Templater cheat sheet.md",
     "TTRPG/characters/My Characters/Drovath Vhaelythar/charsheet-drovath-vhaelythar.md",
     "TTRPG/session notes/2025-07-28.md",
@@ -209,7 +210,6 @@
     "TTRPG/session notes/2025-07-27.md",
     "ScratchPad/email-freedom-domain-cloudflare.md",
     "TTRPG/characters/My Characters/Saalim abu Razin/Saalims logs.md",
-    "index.md",
     "Untitled.canvas",
     "Testblaat.md",
     "ScratchPad/obsidian-subscription-config.md",
