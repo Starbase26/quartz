@@ -18,7 +18,7 @@ title: Starbase 26 Vault
 | Note                                                                                       | Last Modified                |
 | ------------------------------------------------------------------------------------------ | ---------------------------- |
 | [[Abe Shun'ya (Sakai)]] | YYYY-07-27 jul 2025 15:27:43 |
-| [[Saalims logs]]          | YYYY-08-14 aug 2025 13:52:34 |
+| [[Saalims logs]]          | YYYY-08-15 aug 2025 18:24:20 |
 <!-- SerializedQuery END -->
 
 ---
@@ -32,6 +32,7 @@ title: Starbase 26 Vault
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
 | [[roleplay-player-note]]                                                         | \-                      | templates                                         |
 | [[npc-template-design]]                                                          | \-                      | ScratchPad                                        |
+| [[2025-08-14]]                                                                   | session                 | TTRPG/session notes                               |
 | [[Templater cheat sheet]]                                                      | \-                      | ScratchPad                                        |
 | [[charsheet-drovath-vhaelythar]] | chararacter sheet notes | TTRPG/characters/My Characters/Drovath Vhaelythar |
 | [[2025-07-18]]                                                                   | session                 | TTRPG/session notes                               |
@@ -39,5 +40,4 @@ title: Starbase 26 Vault
 | [[2025-07-28]]                                                                   | session                 | TTRPG/session notes                               |
 | [[Saalims logs]]                                   | \-                      | TTRPG/characters/My Characters/Saalim abu Razin   |
 | [[Sweetys-workflow-analysis]]                                              | \-                      | ScratchPad                                        |
-| [[Drovath Vhaelythar]]                     | character               | TTRPG/characters/My Characters/Drovath Vhaelythar |
 <!-- SerializedQuery END -->
